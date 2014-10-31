@@ -1,5 +1,5 @@
 
-## Nobel data analysis
+## Creating a kernel density plot
 ## Packages
 library(ggplot2)
 ggplot(nobel, aes(age, fill = category)) + 
