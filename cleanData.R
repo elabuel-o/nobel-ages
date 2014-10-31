@@ -1,4 +1,11 @@
 
+##----------------------------------------------------------------------------
+## Title: Cleaning data file for Nobel-ages
+## Author: Armando Enriquez Z.
+## Date: October 31th, 2014
+## Purpose: Clean raw data from the developer zone of official Nobel website
+##----------------------------------------------------------------------------
+
 ## Loading data
 nobel <- read.csv("nobelData.csv", header = TRUE)
 
