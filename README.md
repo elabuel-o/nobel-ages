@@ -1,7 +1,7 @@
 ## nobel-ages repository  
 
 ### Purpose 
-Create a plot with kernel density distributions of the 1901-2014 Nobel laureates ages by category (physics, chemestry, medicine, peace, literature and economics).
+Create a kernel density plot of the 1901-2014 Nobel laureates ages by category (physics, chemestry, medicine, peace, literature and economics).
 
 There are two .R files: one with the data cleaning process and the other with the code to create the kernel density plot.
 
