@@ -1,7 +1,9 @@
 
 ## Creating a kernel density plot
-## Packages
+## Packages required
 library(ggplot2)
+
+## The plot
 ggplot(nobel, aes(age, fill = category)) + 
         geom_density(alpha = 0.3, size = 0.8) + xlab("Edad") + 
         ylab("Densidad") + 
