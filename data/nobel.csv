@@ -1,0 +1,895 @@
+"","id","firstname","surname","born","died","bornCountry","bornCountryCode","gender","year","category","share","age"
+"1",1,"Wilhelm Conrad","Röntgen",1845,"1923-02-10","Prussia (now Germany)","DE","male",1901,"physics",1,56
+"2",2,"Hendrik Antoon","Lorentz",1853,"1928-02-04","the Netherlands","NL","male",1902,"physics",2,49
+"3",3,"Pieter","Zeeman",1865,"1943-10-09","the Netherlands","NL","male",1902,"physics",2,37
+"4",4,"Antoine Henri","Becquerel",1852,"1908-08-25","France","FR","male",1903,"physics",2,51
+"5",5,"Pierre","Curie",1859,"1906-04-19","France","FR","male",1903,"physics",4,44
+"6",6,"Marie","Curie, née Sklodowska",1867,"1934-07-04","Russian Empire (now Poland)","PL","female",1903,"physics",4,36
+"7",6,"Marie","Curie, née Sklodowska",1867,"1934-07-04","Russian Empire (now Poland)","PL","female",1911,"chemistry",1,44
+"8",8,"Lord Rayleigh","(John William Strutt)",1842,"1919-06-30","United Kingdom","GB","male",1904,"physics",1,62
+"9",9,"Philipp Eduard Anton","von Lenard",1862,"1947-05-20","Hungary (now Slovakia)","SK","male",1905,"physics",1,43
+"10",10,"Joseph John","Thomson",1856,"1940-08-30","United Kingdom","GB","male",1906,"physics",1,50
+"11",11,"Albert Abraham","Michelson",1852,"1931-05-09","Prussia (now Poland)","PL","male",1907,"physics",1,55
+"12",12,"Gabriel","Lippmann",1845,"1921-07-13","Luxembourg","LU","male",1908,"physics",1,63
+"13",13,"Guglielmo","Marconi",1874,"1937-07-20","Italy","IT","male",1909,"physics",2,35
+"14",14,"Karl Ferdinand","Braun",1850,"1918-04-20","Hesse-Kassel (now Germany)","DE","male",1909,"physics",2,59
+"15",15,"Johannes Diderik","van der Waals",1837,"1923-03-08","the Netherlands","NL","male",1910,"physics",1,73
+"16",16,"Wilhelm","Wien",1864,"1928-08-30","Prussia (now Russia)","RU","male",1911,"physics",1,47
+"17",17,"Nils Gustaf","Dalén",1869,"1937-12-09","Sweden","SE","male",1912,"physics",1,43
+"18",18,"Heike","Kamerlingh Onnes",1853,"1926-02-21","the Netherlands","NL","male",1913,"physics",1,60
+"19",19,"Max","von Laue",1879,"1960-04-23","Germany","DE","male",1914,"physics",1,35
+"20",20,"Sir William Henry","Bragg",1862,"1942-03-12","United Kingdom","GB","male",1915,"physics",2,53
+"21",21,"William Lawrence","Bragg",1890,"1971-07-01","Australia","AU","male",1915,"physics",2,25
+"22",22,"Charles Glover","Barkla",1877,"1944-10-23","United Kingdom","GB","male",1917,"physics",1,40
+"23",23,"Max Karl Ernst Ludwig","Planck",1858,"1947-10-04","Schleswig (now Germany)","DE","male",1918,"physics",1,60
+"24",24,"Johannes","Stark",1874,"1957-06-21","Germany","DE","male",1919,"physics",1,45
+"25",25,"Charles Edouard","Guillaume",1861,"1938-06-13","Switzerland","CH","male",1920,"physics",1,59
+"26",26,"Albert","Einstein",1879,"1955-04-18","Germany","DE","male",1921,"physics",1,42
+"27",27,"Niels Henrik David","Bohr",1885,"1962-11-18","Denmark","DK","male",1922,"physics",1,37
+"28",28,"Robert Andrews","Millikan",1868,"1953-12-19","USA","US","male",1923,"physics",1,55
+"29",29,"Karl Manne Georg","Siegbahn",1886,"1978-09-26","Sweden","SE","male",1924,"physics",1,38
+"30",30,"James","Franck",1882,"1964-05-21","Germany","DE","male",1925,"physics",2,43
+"31",31,"Gustav Ludwig","Hertz",1887,"1975-10-30","Germany","DE","male",1925,"physics",2,38
+"32",32,"Jean Baptiste","Perrin",1870,"1942-04-17","France","FR","male",1926,"physics",1,56
+"33",33,"Arthur Holly","Compton",1892,"1962-03-15","USA","US","male",1927,"physics",2,35
+"34",34,"Charles Thomson Rees","Wilson",1869,"1959-11-15","Scotland","GB","male",1927,"physics",2,58
+"35",35,"Owen Willans","Richardson",1879,"1959-02-15","United Kingdom","GB","male",1928,"physics",1,49
+"36",36,"Prince Louis-Victor Pierre Raymond","de Broglie",1892,"1987-03-19","France","FR","male",1929,"physics",1,37
+"37",37,"Sir Chandrasekhara Venkata","Raman",1888,"1970-11-21","India","IN","male",1930,"physics",1,42
+"38",38,"Werner Karl","Heisenberg",1901,"1976-02-01","Germany","DE","male",1932,"physics",1,31
+"39",39,"Erwin","Schrödinger",1887,"1961-01-04","Austria","AT","male",1933,"physics",2,46
+"40",40,"Paul Adrien Maurice","Dirac",1902,"1984-10-20","United Kingdom","GB","male",1933,"physics",2,31
+"41",41,"James","Chadwick",1891,"1974-07-24","United Kingdom","GB","male",1935,"physics",1,44
+"42",42,"Victor Franz","Hess",1883,"1964-12-17","Austria","AT","male",1936,"physics",2,53
+"43",43,"Carl David","Anderson",1905,"1991-01-11","USA","US","male",1936,"physics",2,31
+"44",44,"Clinton Joseph","Davisson",1881,"1958-02-01","USA","US","male",1937,"physics",2,56
+"45",45,"George Paget","Thomson",1892,"1975-09-10","United Kingdom","GB","male",1937,"physics",2,45
+"46",46,"Enrico","Fermi",1901,"1954-11-28","Italy","IT","male",1938,"physics",1,37
+"47",47,"Ernest Orlando","Lawrence",1901,"1958-08-27","USA","US","male",1939,"physics",1,38
+"48",48,"Otto","Stern",1888,"1969-08-17","Germany (now Poland)","PL","male",1943,"physics",1,55
+"49",49,"Isidor Isaac","Rabi",1898,"1988-01-11","Austria-Hungary (now Poland)","PL","male",1944,"physics",1,46
+"50",50,"Wolfgang","Pauli",1900,"1958-12-15","Austria","AT","male",1945,"physics",1,45
+"51",51,"Percy Williams","Bridgman",1882,"1961-08-20","USA","US","male",1946,"physics",1,64
+"52",52,"Sir Edward Victor","Appleton",1892,"1965-04-21","United Kingdom","GB","male",1947,"physics",1,55
+"53",53,"Patrick Maynard Stuart","Blackett",1897,"1974-07-13","United Kingdom","GB","male",1948,"physics",1,51
+"54",54,"Hideki","Yukawa",1907,"1981-09-08","Japan","JP","male",1949,"physics",1,42
+"55",54,"Hideki","Yukawa",1907,"1981-09-08","Japan","JP","male",1949,"physics",1,42
+"56",55,"Cecil Frank","Powell",1903,"1969-08-09","United Kingdom","GB","male",1950,"physics",1,47
+"57",56,"Sir John Douglas","Cockcroft",1897,"1967-09-18","United Kingdom","GB","male",1951,"physics",2,54
+"58",57,"Ernest Thomas Sinton","Walton",1903,"1995-06-25","Ireland","IE","male",1951,"physics",2,48
+"59",58,"Felix","Bloch",1905,"1983-09-10","Switzerland","CH","male",1952,"physics",2,47
+"60",59,"Edward Mills","Purcell",1912,"1997-03-07","USA","US","male",1952,"physics",2,40
+"61",60,"Frits (Frederik)","Zernike",1888,"1966-03-10","the Netherlands","NL","male",1953,"physics",1,65
+"62",61,"Max","Born",1882,"1970-01-05","Germany (now Poland)","PL","male",1954,"physics",2,72
+"63",62,"Walther","Bothe",1891,"1957-02-08","Germany","DE","male",1954,"physics",2,63
+"64",62,"Walther","Bothe",1891,"1957-02-08","Germany","DE","male",1954,"physics",2,63
+"65",63,"Willis Eugene","Lamb",1913,"2008-05-15","USA","US","male",1955,"physics",2,42
+"66",64,"Polykarp","Kusch",1911,"1993-03-20","Germany","DE","male",1955,"physics",2,44
+"67",65,"William Bradford","Shockley",1910,"1989-08-12","United Kingdom","GB","male",1956,"physics",3,46
+"68",66,"John","Bardeen",1908,"1991-01-30","USA","US","male",1956,"physics",3,48
+"69",66,"John","Bardeen",1908,"1991-01-30","USA","US","male",1972,"physics",3,64
+"70",67,"Walter Houser","Brattain",1902,"1987-10-13","China","CN","male",1956,"physics",3,54
+"71",68,"Chen Ning","Yang",1922,"0000-00-00","China","CN","male",1957,"physics",2,35
+"72",69,"Tsung-Dao (T.D.)","Lee",1926,"0000-00-00","China","CN","male",1957,"physics",2,31
+"73",70,"Pavel Alekseyevich","Cherenkov",1904,"1990-01-06","Russia","RU","male",1958,"physics",3,54
+"74",71,"Igor Yevgenyevich","Tamm",1895,"1971-04-12","Russia","RU","male",1958,"physics",3,63
+"75",71,"Igor Yevgenyevich","Tamm",1895,"1971-04-12","Russia","RU","male",1958,"physics",3,63
+"76",72,"Emilio Gino","Segrè",1905,"1989-04-22","Italy","IT","male",1959,"physics",2,54
+"77",73,"Owen","Chamberlain",1920,"2006-02-28","USA","US","male",1959,"physics",2,39
+"78",74,"Donald Arthur","Glaser",1926,"2013-02-28","USA","US","male",1960,"physics",1,34
+"79",75,"Robert","Hofstadter",1915,"1990-11-17","USA","US","male",1961,"physics",2,46
+"80",76,"Rudolf Ludwig","Mössbauer",1929,"2011-09-14","Germany","DE","male",1961,"physics",2,32
+"81",76,"Rudolf Ludwig","Mössbauer",1929,"2011-09-14","Germany","DE","male",1961,"physics",2,32
+"82",77,"Lev Davidovich","Landau",1908,"1968-04-01","Russian Empire (now Azerbaijan)","AZ","male",1962,"physics",1,54
+"83",78,"Eugene Paul","Wigner",1902,"1995-01-01","Austria-Hungary (now Hungary)","HU","male",1963,"physics",2,61
+"84",79,"Maria","Goeppert Mayer",1906,"1972-02-20","Germany (now Poland)","PL","female",1963,"physics",4,57
+"85",80,"J. Hans D.","Jensen",1907,"1973-02-11","Germany","DE","male",1963,"physics",4,56
+"86",81,"Charles Hard","Townes",1915,"0000-00-00","USA","US","male",1964,"physics",2,49
+"87",82,"Nicolay Gennadiyevich","Basov",1922,"2001-07-01","USSR (now Russia)","RU","male",1964,"physics",4,42
+"88",83,"Aleksandr Mikhailovich","Prokhorov",1916,"2002-01-08","Australia","AU","male",1964,"physics",4,48
+"89",84,"Sin-Itiro","Tomonaga",1906,"1979-07-08","Japan","JP","male",1965,"physics",3,59
+"90",85,"Julian","Schwinger",1918,"1994-07-16","USA","US","male",1965,"physics",3,47
+"91",86,"Richard P.","Feynman",1918,"1988-02-15","USA","US","male",1965,"physics",3,47
+"92",87,"Alfred","Kastler",1902,"1984-01-07","Germany (now France)","FR","male",1966,"physics",1,64
+"93",88,"Hans Albrecht","Bethe",1906,"2005-03-06","Germany (now France)","FR","male",1967,"physics",1,61
+"94",89,"Luis Walter","Alvarez",1911,"1988-09-01","USA","US","male",1968,"physics",1,57
+"95",90,"Murray","Gell-Mann",1929,"0000-00-00","USA","US","male",1969,"physics",1,40
+"96",91,"Hannes Olof Gösta","Alfvén",1908,"1995-04-02","Sweden","SE","male",1970,"physics",2,62
+"97",92,"Louis Eugène Félix","Néel",1904,"2000-11-17","France","FR","male",1970,"physics",2,66
+"98",93,"Dennis","Gabor",1900,"1979-02-08","Hungary","HU","male",1971,"physics",1,71
+"99",95,"Leon Neil","Cooper",1930,"0000-00-00","USA","US","male",1972,"physics",3,42
+"100",96,"John Robert","Schrieffer",1931,"0000-00-00","USA","US","male",1972,"physics",3,41
+"101",97,"Leo","Esaki",1925,"0000-00-00","Japan","JP","male",1973,"physics",4,48
+"102",98,"Ivar","Giaever",1929,"0000-00-00","Norway","NO","male",1973,"physics",4,44
+"103",99,"Brian David","Josephson",1940,"0000-00-00","United Kingdom","GB","male",1973,"physics",2,33
+"104",100,"Sir Martin","Ryle",1918,"1984-10-14","United Kingdom","GB","male",1974,"physics",2,56
+"105",101,"Antony","Hewish",1924,"0000-00-00","United Kingdom","GB","male",1974,"physics",2,50
+"106",102,"Aage Niels","Bohr",1922,"2009-09-08","Denmark","DK","male",1975,"physics",3,53
+"107",103,"Ben Roy","Mottelson",1926,"0000-00-00","USA","US","male",1975,"physics",3,49
+"108",104,"Leo James","Rainwater",1917,"1986-03-31","USA","US","male",1975,"physics",3,58
+"109",105,"Burton","Richter",1931,"0000-00-00","USA","US","male",1976,"physics",2,45
+"110",106,"Samuel Chao Chung","Ting",1936,"0000-00-00","USA","US","male",1976,"physics",2,40
+"111",107,"Philip Warren","Anderson",1923,"0000-00-00","USA","US","male",1977,"physics",3,54
+"112",108,"Sir Nevill Francis","Mott",1905,"1996-08-08","United Kingdom","GB","male",1977,"physics",3,72
+"113",109,"John Hasbrouck","van Vleck",1899,"1980-10-27","USA","US","male",1977,"physics",3,78
+"114",110,"Pyotr Leonidovich","Kapitsa",1894,"1984-04-08","Russian Empire (now Russia)","RU","male",1978,"physics",2,84
+"115",111,"Arno Allan","Penzias",1933,"0000-00-00","Germany","DE","male",1978,"physics",4,45
+"116",112,"Robert Woodrow","Wilson",1936,"0000-00-00","USA","US","male",1978,"physics",4,42
+"117",113,"Sheldon Lee","Glashow",1932,"0000-00-00","USA","US","male",1979,"physics",3,47
+"118",114,"Abdus","Salam",1926,"1996-11-21","India (now Pakistan)","PK","male",1979,"physics",3,53
+"119",114,"Abdus","Salam",1926,"1996-11-21","India (now Pakistan)","PK","male",1979,"physics",3,53
+"120",115,"Steven","Weinberg",1933,"0000-00-00","USA","US","male",1979,"physics",3,46
+"121",116,"James Watson","Cronin",1931,"0000-00-00","USA","US","male",1980,"physics",2,49
+"122",117,"Val Logsdon","Fitch",1923,"0000-00-00","USA","US","male",1980,"physics",2,57
+"123",118,"Nicolaas","Bloembergen",1920,"0000-00-00","the Netherlands","NL","male",1981,"physics",4,61
+"124",119,"Arthur Leonard","Schawlow",1921,"1999-04-28","USA","US","male",1981,"physics",4,60
+"125",120,"Kai M.","Siegbahn",1918,"2007-07-20","Sweden","SE","male",1981,"physics",2,63
+"126",121,"Kenneth G.","Wilson",1936,"2013-06-15","USA","US","male",1982,"physics",1,46
+"127",122,"Subramanyan","Chandrasekhar",1910,"1995-08-21","India (now Pakistan)","PK","male",1983,"physics",2,73
+"128",123,"William Alfred","Fowler",1911,"1995-03-14","USA","US","male",1983,"physics",2,72
+"129",124,"Carlo","Rubbia",1934,"0000-00-00","Italy","IT","male",1984,"physics",2,50
+"130",125,"Simon","van der Meer",1925,"2011-03-04","the Netherlands","NL","male",1984,"physics",2,59
+"131",126,"Klaus","von Klitzing",1943,"0000-00-00","German-occupied Poland (now Poland)","PL","male",1985,"physics",1,42
+"132",127,"Ernst","Ruska",1906,"1988-05-27","Germany","DE","male",1986,"physics",2,80
+"133",128,"Gerd","Binnig",1947,"0000-00-00","West Germany (now Germany)","DE","male",1986,"physics",4,39
+"134",129,"Heinrich","Rohrer",1933,"2013-05-16","Switzerland","CH","male",1986,"physics",4,53
+"135",130,"J. Georg","Bednorz",1950,"0000-00-00","West Germany (now Germany)","DE","male",1987,"physics",2,37
+"136",131,"K. Alexander","Müller",1927,"0000-00-00","Switzerland","CH","male",1987,"physics",2,60
+"137",132,"Leon M.","Lederman",1922,"0000-00-00","USA","US","male",1988,"physics",3,66
+"138",133,"Melvin","Schwartz",1932,"2006-08-28","USA","US","male",1988,"physics",3,56
+"139",134,"Jack","Steinberger",1921,"0000-00-00","Germany","DE","male",1988,"physics",3,67
+"140",135,"Norman F.","Ramsey",1915,"2011-11-04","USA","US","male",1989,"physics",2,74
+"141",136,"Hans G.","Dehmelt",1922,"0000-00-00","Prussia (now Germany)","DE","male",1989,"physics",4,67
+"142",137,"Wolfgang","Paul",1913,"1993-12-07","Germany","DE","male",1989,"physics",4,76
+"143",138,"Jerome I.","Friedman",1930,"0000-00-00","USA","US","male",1990,"physics",3,60
+"144",139,"Henry W.","Kendall",1926,"1999-02-15","USA","US","male",1990,"physics",3,64
+"145",140,"Richard E.","Taylor",1929,"0000-00-00","Canada","CA","male",1990,"physics",3,61
+"146",141,"Pierre-Gilles","de Gennes",1932,"2007-05-18","France","FR","male",1991,"physics",1,59
+"147",142,"Georges","Charpak",1924,"2010-09-29","Poland","PL","male",1992,"physics",1,68
+"148",142,"Georges","Charpak",1924,"2010-09-29","Poland","PL","male",1992,"physics",1,68
+"149",143,"Russell A.","Hulse",1950,"0000-00-00","USA","US","male",1993,"physics",2,43
+"150",144,"Joseph H.","Taylor Jr.",1941,"0000-00-00","USA","US","male",1993,"physics",2,52
+"151",145,"Bertram N.","Brockhouse",1918,"2003-10-13","Canada","CA","male",1994,"physics",2,76
+"152",146,"Clifford G.","Shull",1915,"2001-03-31","USA","US","male",1994,"physics",2,79
+"153",147,"Martin L.","Perl",1927,"2014-09-30","USA","US","male",1995,"physics",2,68
+"154",148,"Frederick","Reines",1918,"1998-08-26","USA","US","male",1995,"physics",2,77
+"155",149,"David M.","Lee",1931,"0000-00-00","USA","US","male",1996,"physics",3,65
+"156",150,"Douglas D.","Osheroff",1945,"0000-00-00","USA","US","male",1996,"physics",3,51
+"157",151,"Robert C.","Richardson",1937,"2013-02-19","USA","US","male",1996,"physics",3,59
+"158",152,"Steven","Chu",1948,"0000-00-00","USA","US","male",1997,"physics",3,49
+"159",153,"Claude","Cohen-Tannoudji",1933,"0000-00-00","French Algeria (now Algeria)","DZ","male",1997,"physics",3,64
+"160",153,"Claude","Cohen-Tannoudji",1933,"0000-00-00","French Algeria (now Algeria)","DZ","male",1997,"physics",3,64
+"161",154,"William D.","Phillips",1948,"0000-00-00","USA","US","male",1997,"physics",3,49
+"162",155,"Robert B.","Laughlin",1950,"0000-00-00","USA","US","male",1998,"physics",3,48
+"163",156,"Horst L.","Störmer",1949,"0000-00-00","West Germany (now Germany)","DE","male",1998,"physics",3,49
+"164",157,"Daniel C.","Tsui",1939,"0000-00-00","China","CN","male",1998,"physics",3,59
+"165",158,"Gerardus","'t Hooft",1946,"0000-00-00","the Netherlands","NL","male",1999,"physics",2,53
+"166",159,"Martinus J.G.","Veltman",1931,"0000-00-00","the Netherlands","NL","male",1999,"physics",2,68
+"167",160,"Jacobus Henricus","van 't Hoff",1852,"1911-03-01","the Netherlands","NL","male",1901,"chemistry",1,49
+"168",161,"Hermann Emil","Fischer",1852,"1919-07-15","Prussia (now Germany)","DE","male",1902,"chemistry",1,50
+"169",162,"Svante August","Arrhenius",1859,"1927-10-02","Sweden","SE","male",1903,"chemistry",1,44
+"170",163,"Sir William","Ramsay",1852,"1916-07-23","Scotland","GB","male",1904,"chemistry",1,52
+"171",164,"Johann Friedrich Wilhelm Adolf","von Baeyer",1835,"1917-08-20","Prussia (now Germany)","DE","male",1905,"chemistry",1,70
+"172",165,"Henri","Moissan",1852,"1907-02-20","France","FR","male",1906,"chemistry",1,54
+"173",166,"Eduard","Buchner",1860,"1917-08-13","Bavaria (now Germany)","DE","male",1907,"chemistry",1,47
+"174",167,"Ernest","Rutherford",1871,"1937-10-19","New Zealand","NZ","male",1908,"chemistry",1,37
+"175",168,"Wilhelm","Ostwald",1853,"1932-04-04","Russian Empire (now Latvia)","LV","male",1909,"chemistry",1,56
+"176",169,"Otto","Wallach",1847,"1931-02-26","Germany (now Russia)","RU","male",1910,"chemistry",1,63
+"177",172,"Victor","Grignard",1871,"1935-12-13","France","FR","male",1912,"chemistry",2,41
+"178",173,"Paul","Sabatier",1854,"1941-08-14","France","FR","male",1912,"chemistry",2,58
+"179",174,"Alfred","Werner",1866,"1919-11-15","France","FR","male",1913,"chemistry",1,47
+"180",175,"Theodore William","Richards",1868,"1928-04-02","USA","US","male",1914,"chemistry",1,46
+"181",176,"Richard Martin","Willstätter",1872,"1942-08-03","Germany","DE","male",1915,"chemistry",1,43
+"182",177,"Fritz","Haber",1868,"1934-01-29","Prussia (now Poland)","PL","male",1918,"chemistry",1,50
+"183",178,"Walther Hermann","Nernst",1864,"1941-11-18","Prussia (now Germany)","DE","male",1920,"chemistry",1,56
+"184",179,"Frederick","Soddy",1877,"1956-09-22","United Kingdom","GB","male",1921,"chemistry",1,44
+"185",180,"Francis William","Aston",1877,"1945-11-20","United Kingdom","GB","male",1922,"chemistry",1,45
+"186",181,"Fritz","Pregl",1869,"1930-12-13","Austria-Hungary (now Slovenia)","SI","male",1923,"chemistry",1,54
+"187",182,"Richard Adolf","Zsigmondy",1865,"1929-09-24","Austrian Empire (now Austria)","AT","male",1925,"chemistry",1,60
+"188",183,"The (Theodor)","Svedberg",1884,"1971-02-25","Sweden","SE","male",1926,"chemistry",1,42
+"189",184,"Heinrich Otto","Wieland",1877,"1957-08-05","Germany","DE","male",1927,"chemistry",1,50
+"190",185,"Adolf Otto Reinhold","Windaus",1876,"1959-06-09","Germany","DE","male",1928,"chemistry",1,52
+"191",186,"Arthur","Harden",1865,"1940-06-17","United Kingdom","GB","male",1929,"chemistry",2,64
+"192",187,"Hans Karl August Simon","von Euler-Chelpin",1873,"1964-11-06","Germany","DE","male",1929,"chemistry",2,56
+"193",188,"Hans","Fischer",1881,"1945-03-31","Germany","DE","male",1930,"chemistry",1,49
+"194",189,"Carl","Bosch",1874,"1940-04-26","Germany","DE","male",1931,"chemistry",2,57
+"195",189,"Carl","Bosch",1874,"1940-04-26","Germany","DE","male",1931,"chemistry",2,57
+"196",190,"Friedrich","Bergius",1884,"1949-03-30","Germany (now Poland)","PL","male",1931,"chemistry",2,47
+"197",190,"Friedrich","Bergius",1884,"1949-03-30","Germany (now Poland)","PL","male",1931,"chemistry",2,47
+"198",191,"Irving","Langmuir",1881,"1957-08-16","USA","US","male",1932,"chemistry",1,51
+"199",192,"Harold Clayton","Urey",1893,"1981-01-05","USA","US","male",1934,"chemistry",1,41
+"200",193,"Frédéric","Joliot",1900,"1958-08-14","France","FR","male",1935,"chemistry",2,35
+"201",194,"Irène","Joliot-Curie",1897,"1956-03-17","France","FR","female",1935,"chemistry",2,38
+"202",195,"Petrus (Peter) Josephus Wilhelmus","Debye",1884,"1966-11-02","the Netherlands","NL","male",1936,"chemistry",1,52
+"203",195,"Petrus (Peter) Josephus Wilhelmus","Debye",1884,"1966-11-02","the Netherlands","NL","male",1936,"chemistry",1,52
+"204",196,"Walter Norman","Haworth",1883,"1950-03-19","United Kingdom","GB","male",1937,"chemistry",2,54
+"205",197,"Paul","Karrer",1889,"1971-06-18","Russia","RU","male",1937,"chemistry",2,48
+"206",198,"Richard","Kuhn",1900,"1967-08-01","Austria-Hungary (now Austria)","AT","male",1938,"chemistry",1,38
+"207",198,"Richard","Kuhn",1900,"1967-08-01","Austria-Hungary (now Austria)","AT","male",1938,"chemistry",1,38
+"208",199,"Adolf Friedrich Johann","Butenandt",1903,"1995-01-18","Germany","DE","male",1939,"chemistry",2,36
+"209",199,"Adolf Friedrich Johann","Butenandt",1903,"1995-01-18","Germany","DE","male",1939,"chemistry",2,36
+"210",200,"Leopold","Ruzicka",1887,"1976-09-26","Austria-Hungary (now Croatia)","HR","male",1939,"chemistry",2,52
+"211",201,"George","de Hevesy",1885,"1966-07-05","Austria-Hungary (now Hungary)","HU","male",1943,"chemistry",1,58
+"212",202,"Otto","Hahn",1879,"1968-07-28","Germany","DE","male",1944,"chemistry",1,65
+"213",203,"Artturi Ilmari","Virtanen",1895,"1973-11-11","Russian Empire (now Finland)","FI","male",1945,"chemistry",1,50
+"214",204,"James Batcheller","Sumner",1887,"1955-08-12","USA","US","male",1946,"chemistry",2,59
+"215",205,"John Howard","Northrop",1891,"1987-05-27","USA","US","male",1946,"chemistry",4,55
+"216",206,"Wendell Meredith","Stanley",1904,"1971-06-15","USA","US","male",1946,"chemistry",4,42
+"217",207,"Sir Robert","Robinson",1886,"1975-02-08","United Kingdom","GB","male",1947,"chemistry",1,61
+"218",208,"Arne Wilhelm Kaurin","Tiselius",1902,"1971-10-29","Sweden","SE","male",1948,"chemistry",1,46
+"219",209,"William Francis","Giauque",1895,"1982-03-28","Canada","CA","male",1949,"chemistry",1,54
+"220",210,"Otto Paul Hermann","Diels",1876,"1954-03-07","Germany","DE","male",1950,"chemistry",2,74
+"221",211,"Kurt","Alder",1902,"1958-06-20","Prussia (now Poland)","PL","male",1950,"chemistry",2,48
+"222",212,"Edwin Mattison","McMillan",1907,"1991-09-07","USA","US","male",1951,"chemistry",2,44
+"223",213,"Glenn Theodore","Seaborg",1912,"1999-02-25","USA","US","male",1951,"chemistry",2,39
+"224",214,"Archer John Porter","Martin",1910,"2002-07-28","United Kingdom","GB","male",1952,"chemistry",2,42
+"225",215,"Richard Laurence Millington","Synge",1914,"1994-08-18","United Kingdom","GB","male",1952,"chemistry",2,38
+"226",216,"Hermann","Staudinger",1881,"1965-09-08","Germany","DE","male",1953,"chemistry",1,72
+"227",216,"Hermann","Staudinger",1881,"1965-09-08","Germany","DE","male",1953,"chemistry",1,72
+"228",217,"Linus Carl","Pauling",1901,"1994-08-19","USA","US","male",1954,"chemistry",1,53
+"229",217,"Linus Carl","Pauling",1901,"1994-08-19","USA","US","male",1962,"peace",1,61
+"230",218,"Vincent","du Vigneaud",1901,"1978-12-11","USA","US","male",1955,"chemistry",1,54
+"231",219,"Sir Cyril Norman","Hinshelwood",1897,"1967-10-09","United Kingdom","GB","male",1956,"chemistry",2,59
+"232",220,"Nikolay Nikolaevich","Semenov",1896,"1986-09-25","Russia","RU","male",1956,"chemistry",2,60
+"233",221,"Lord (Alexander R.)","Todd",1907,"1997-01-10","Scotland","GB","male",1957,"chemistry",1,50
+"234",222,"Frederick","Sanger",1918,"2013-11-19","United Kingdom","GB","male",1958,"chemistry",1,40
+"235",222,"Frederick","Sanger",1918,"2013-11-19","United Kingdom","GB","male",1980,"chemistry",4,62
+"236",223,"Jaroslav","Heyrovsky",1890,"1967-03-27","Austria-Hungary (now Czech Republic)","CZ","male",1959,"chemistry",1,69
+"237",224,"Willard Frank","Libby",1908,"1980-09-08","USA","US","male",1960,"chemistry",1,52
+"238",225,"Melvin","Calvin",1911,"1997-01-08","USA","US","male",1961,"chemistry",1,50
+"239",226,"Max Ferdinand","Perutz",1914,"2002-02-06","Austria","AT","male",1962,"chemistry",2,48
+"240",227,"John Cowdery","Kendrew",1917,"1997-08-23","United Kingdom","GB","male",1962,"chemistry",2,45
+"241",228,"Karl","Ziegler",1898,"1973-08-12","Germany","DE","male",1963,"chemistry",2,65
+"242",229,"Giulio","Natta",1903,"1979-05-02","Italy","IT","male",1963,"chemistry",2,60
+"243",230,"Dorothy Crowfoot","Hodgkin",1910,"1994-07-29","Egypt","EG","female",1964,"chemistry",1,54
+"244",231,"Robert Burns","Woodward",1917,"1979-07-08","USA","US","male",1965,"chemistry",1,48
+"245",232,"Robert S.","Mulliken",1896,"1986-10-31","USA","US","male",1966,"chemistry",1,70
+"246",233,"Manfred","Eigen",1927,"0000-00-00","Germany","DE","male",1967,"chemistry",2,40
+"247",234,"Ronald George Wreyford","Norrish",1897,"1978-06-07","United Kingdom","GB","male",1967,"chemistry",4,70
+"248",235,"George","Porter",1920,"2002-08-31","United Kingdom","GB","male",1967,"chemistry",4,47
+"249",236,"Lars","Onsager",1903,"1976-10-05","Norway","NO","male",1968,"chemistry",1,65
+"250",237,"Derek H. R.","Barton",1918,"1998-03-16","United Kingdom","GB","male",1969,"chemistry",2,51
+"251",238,"Odd","Hassel",1897,"1981-05-11","Norway","NO","male",1969,"chemistry",2,72
+"252",239,"Luis F.","Leloir",1906,"1987-12-02","France","FR","male",1970,"chemistry",1,64
+"253",240,"Gerhard","Herzberg",1904,"1999-03-03","Germany","DE","male",1971,"chemistry",1,67
+"254",241,"Christian B.","Anfinsen",1916,"1995-05-14","USA","US","male",1972,"chemistry",2,56
+"255",242,"Stanford","Moore",1913,"1982-08-23","USA","US","male",1972,"chemistry",4,59
+"256",243,"William H.","Stein",1911,"1980-02-02","USA","US","male",1972,"chemistry",4,61
+"257",244,"Ernst Otto","Fischer",1918,"2007-07-23","Germany","DE","male",1973,"chemistry",2,55
+"258",245,"Geoffrey","Wilkinson",1921,"1996-09-26","United Kingdom","GB","male",1973,"chemistry",2,52
+"259",246,"Paul J.","Flory",1910,"1985-09-08","USA","US","male",1974,"chemistry",1,64
+"260",247,"John Warcup","Cornforth",1917,"2013-12-14","Australia","AU","male",1975,"chemistry",2,58
+"261",248,"Vladimir","Prelog",1906,"1998-01-07","Austria-Hungary (now Bosnia and Herzegovina)","BA","male",1975,"chemistry",2,69
+"262",249,"William N.","Lipscomb",1919,"2011-04-14","USA","US","male",1976,"chemistry",1,57
+"263",250,"Ilya","Prigogine",1917,"2003-05-28","Russia","RU","male",1977,"chemistry",1,60
+"264",250,"Ilya","Prigogine",1917,"2003-05-28","Russia","RU","male",1977,"chemistry",1,60
+"265",251,"Peter D.","Mitchell",1920,"1992-04-10","United Kingdom","GB","male",1978,"chemistry",1,58
+"266",252,"Herbert C.","Brown",1912,"2004-12-19","United Kingdom","GB","male",1979,"chemistry",2,67
+"267",253,"Georg","Wittig",1897,"1987-08-26","Germany","DE","male",1979,"chemistry",2,82
+"268",254,"Paul","Berg",1926,"0000-00-00","USA","US","male",1980,"chemistry",2,54
+"269",255,"Walter","Gilbert",1932,"0000-00-00","USA","US","male",1980,"chemistry",4,48
+"270",257,"Kenichi","Fukui",1918,"1998-01-09","Japan","JP","male",1981,"chemistry",2,63
+"271",258,"Roald","Hoffmann",1937,"0000-00-00","Poland (now Ukraine)","UA","male",1981,"chemistry",2,44
+"272",259,"Aaron","Klug",1926,"0000-00-00","Lithuania","LT","male",1982,"chemistry",1,56
+"273",260,"Henry","Taube",1915,"2005-11-16","Canada","CA","male",1983,"chemistry",1,68
+"274",261,"Robert Bruce","Merrifield",1921,"2006-05-14","USA","US","male",1984,"chemistry",1,63
+"275",262,"Herbert A.","Hauptman",1917,"2011-10-23","USA","US","male",1985,"chemistry",2,68
+"276",263,"Jerome","Karle",1918,"2013-06-06","USA","US","male",1985,"chemistry",2,67
+"277",264,"Dudley R.","Herschbach",1932,"0000-00-00","USA","US","male",1986,"chemistry",3,54
+"278",265,"Yuan T.","Lee",1936,"0000-00-00","Taiwan","TW","male",1986,"chemistry",3,50
+"279",266,"John C.","Polanyi",1929,"0000-00-00","Germany","DE","male",1986,"chemistry",3,57
+"280",267,"Donald J.","Cram",1919,"2001-06-17","USA","US","male",1987,"chemistry",3,68
+"281",268,"Jean-Marie","Lehn",1939,"0000-00-00","France","FR","male",1987,"chemistry",3,48
+"282",268,"Jean-Marie","Lehn",1939,"0000-00-00","France","FR","male",1987,"chemistry",3,48
+"283",269,"Charles J.","Pedersen",1904,"1989-10-26","Korea (now South Korea)","KR","male",1987,"chemistry",3,83
+"284",270,"Johann","Deisenhofer",1943,"0000-00-00","Germany","DE","male",1988,"chemistry",3,45
+"285",270,"Johann","Deisenhofer",1943,"0000-00-00","Germany","DE","male",1988,"chemistry",3,45
+"286",271,"Robert","Huber",1937,"0000-00-00","Germany","DE","male",1988,"chemistry",3,51
+"287",272,"Hartmut","Michel",1948,"0000-00-00","West Germany (now Germany)","DE","male",1988,"chemistry",3,40
+"288",273,"Sidney","Altman",1939,"0000-00-00","Canada","CA","male",1989,"chemistry",2,50
+"289",274,"Thomas R.","Cech",1947,"0000-00-00","USA","US","male",1989,"chemistry",2,42
+"290",275,"Elias James","Corey",1928,"0000-00-00","USA","US","male",1990,"chemistry",1,62
+"291",276,"Richard R.","Ernst",1933,"0000-00-00","Switzerland","CH","male",1991,"chemistry",1,58
+"292",277,"Rudolph A.","Marcus",1923,"0000-00-00","Canada","CA","male",1992,"chemistry",1,69
+"293",278,"Kary B.","Mullis",1944,"0000-00-00","USA","US","male",1993,"chemistry",2,49
+"294",279,"Michael","Smith",1932,"2000-10-04","United Kingdom","GB","male",1993,"chemistry",2,61
+"295",280,"George A.","Olah",1927,"0000-00-00","Hungary","HU","male",1994,"chemistry",1,67
+"296",281,"Paul J.","Crutzen",1933,"0000-00-00","the Netherlands","NL","male",1995,"chemistry",3,62
+"297",282,"Mario J.","Molina",1943,"0000-00-00","Mexico","MX","male",1995,"chemistry",3,52
+"298",283,"F. Sherwood","Rowland",1927,"2012-03-10","USA","US","male",1995,"chemistry",3,68
+"299",284,"Robert F.","Curl Jr.",1933,"0000-00-00","USA","US","male",1996,"chemistry",3,63
+"300",285,"Sir Harold W.","Kroto",1939,"0000-00-00","United Kingdom","GB","male",1996,"chemistry",3,57
+"301",286,"Richard E.","Smalley",1943,"2005-10-28","USA","US","male",1996,"chemistry",3,53
+"302",287,"Paul D.","Boyer",1918,"0000-00-00","USA","US","male",1997,"chemistry",4,79
+"303",288,"John E.","Walker",1941,"0000-00-00","United Kingdom","GB","male",1997,"chemistry",4,56
+"304",289,"Jens C.","Skou",1918,"0000-00-00","Denmark","DK","male",1997,"chemistry",2,79
+"305",290,"Walter","Kohn",1923,"0000-00-00","Austria","AT","male",1998,"chemistry",2,75
+"306",291,"John A.","Pople",1925,"2004-03-15","United Kingdom","GB","male",1998,"chemistry",2,73
+"307",292,"Ahmed H.","Zewail",1946,"0000-00-00","Egypt","EG","male",1999,"chemistry",1,53
+"308",293,"Emil Adolf","von Behring",1854,"1917-03-31","Prussia (now Poland)","PL","male",1901,"medicine",1,47
+"309",294,"Ronald","Ross",1857,"1932-09-16","India","IN","male",1902,"medicine",1,45
+"310",295,"Niels Ryberg","Finsen",1860,"1904-09-24","Faroe Islands (Denmark)","DK","male",1903,"medicine",1,43
+"311",296,"Ivan Petrovich","Pavlov",1849,"1936-02-27","Russia","RU","male",1904,"medicine",1,55
+"312",297,"Robert","Koch",1843,"1910-05-27","Germany","DE","male",1905,"medicine",1,62
+"313",298,"Camillo","Golgi",1843,"1926-01-21","Italy","IT","male",1906,"medicine",2,63
+"314",299,"Santiago","Ramón y Cajal",1852,"1934-10-17","Spain","ES","male",1906,"medicine",2,54
+"315",300,"Charles Louis Alphonse","Laveran",1845,"1922-05-18","France","FR","male",1907,"medicine",1,62
+"316",301,"Ilya Ilyich","Mechnikov",1845,"1916-07-16","Russian Empire (now Ukraine)","UA","male",1908,"medicine",2,63
+"317",302,"Paul","Ehrlich",1854,"1915-08-20","Prussia (now Poland)","PL","male",1908,"medicine",2,54
+"318",302,"Paul","Ehrlich",1854,"1915-08-20","Prussia (now Poland)","PL","male",1908,"medicine",2,54
+"319",303,"Emil Theodor","Kocher",1841,"1917-07-27","Switzerland","CH","male",1909,"medicine",1,68
+"320",304,"Albrecht","Kossel",1853,"1927-07-05","Mecklenburg (now Germany)","DE","male",1910,"medicine",1,57
+"321",305,"Allvar","Gullstrand",1862,"1930-07-28","Sweden","SE","male",1911,"medicine",1,49
+"322",306,"Alexis","Carrel",1873,"1944-11-05","France","FR","male",1912,"medicine",1,39
+"323",307,"Charles Robert","Richet",1850,"1935-12-04","France","FR","male",1913,"medicine",1,63
+"324",308,"Robert","Bárány",1876,"1936-04-08","Austria","AT","male",1914,"medicine",1,38
+"325",309,"Jules","Bordet",1870,"1961-04-06","Belgium","BE","male",1919,"medicine",1,49
+"326",310,"Schack August Steenberg","Krogh",1874,"1949-09-13","Denmark","DK","male",1920,"medicine",1,46
+"327",311,"Archibald Vivian","Hill",1886,"1977-06-03","United Kingdom","GB","male",1922,"medicine",2,36
+"328",312,"Otto Fritz","Meyerhof",1884,"1951-10-06","Germany","DE","male",1922,"medicine",2,38
+"329",313,"Frederick Grant","Banting",1891,"1941-02-21","Canada","CA","male",1923,"medicine",2,32
+"330",314,"John James Rickard","Macleod",1876,"1935-03-16","Scotland","GB","male",1923,"medicine",2,47
+"331",315,"Willem","Einthoven",1860,"1927-09-29","Java, Dutch East Indies (now Indonesia)","ID","male",1924,"medicine",1,64
+"332",316,"Johannes Andreas Grib","Fibiger",1867,"1928-01-30","Denmark","DK","male",1926,"medicine",1,59
+"333",317,"Julius","Wagner-Jauregg",1857,"1940-09-27","Austria","AT","male",1927,"medicine",1,70
+"334",318,"Charles Jules Henri","Nicolle",1866,"1936-02-28","France","FR","male",1928,"medicine",1,62
+"335",319,"Christiaan","Eijkman",1858,"1930-11-05","the Netherlands","NL","male",1929,"medicine",2,71
+"336",320,"Sir Frederick Gowland","Hopkins",1861,"1947-05-16","United Kingdom","GB","male",1929,"medicine",2,68
+"337",321,"Karl","Landsteiner",1868,"1943-06-26","Austrian Empire (now Austria)","AT","male",1930,"medicine",1,62
+"338",322,"Otto Heinrich","Warburg",1883,"1970-08-01","Germany","DE","male",1931,"medicine",1,48
+"339",323,"Sir Charles Scott","Sherrington",1857,"1952-03-04","United Kingdom","GB","male",1932,"medicine",2,75
+"340",324,"Edgar Douglas","Adrian",1889,"1977-08-08","United Kingdom","GB","male",1932,"medicine",2,43
+"341",325,"Thomas Hunt","Morgan",1866,"1945-12-04","USA","US","male",1933,"medicine",1,67
+"342",326,"George Hoyt","Whipple",1878,"1976-02-01","USA","US","male",1934,"medicine",3,56
+"343",327,"George Richards","Minot",1885,"1950-02-25","USA","US","male",1934,"medicine",3,49
+"344",328,"William Parry","Murphy",1892,"1987-10-09","USA","US","male",1934,"medicine",3,42
+"345",328,"William Parry","Murphy",1892,"1987-10-09","USA","US","male",1934,"medicine",3,42
+"346",329,"Hans","Spemann",1869,"1941-09-12","W&uuml;rttemberg (now Germany)","DE","male",1935,"medicine",1,66
+"347",330,"Sir Henry Hallett","Dale",1875,"1968-07-23","United Kingdom","GB","male",1936,"medicine",2,61
+"348",331,"Otto","Loewi",1873,"1961-12-25","Germany","DE","male",1936,"medicine",2,63
+"349",332,"Albert","von Szent-Györgyi Nagyrápolt",1893,"1986-10-22","Austria-Hungary (now Hungary)","HU","male",1937,"medicine",1,44
+"350",333,"Corneille Jean François","Heymans",1892,"1968-07-18","Belgium","BE","male",1938,"medicine",1,46
+"351",334,"Gerhard","Domagk",1895,"1964-04-24","Germany (now Poland)","PL","male",1939,"medicine",1,44
+"352",335,"Henrik Carl Peter","Dam",1895,"1976-04-17","Denmark","DK","male",1943,"medicine",2,48
+"353",336,"Edward Adelbert","Doisy",1893,"1986-10-23","USA","US","male",1943,"medicine",2,50
+"354",337,"Joseph","Erlanger",1874,"1965-12-05","USA","US","male",1944,"medicine",2,70
+"355",338,"Herbert Spencer","Gasser",1888,"1963-05-11","USA","US","male",1944,"medicine",2,56
+"356",339,"Sir Alexander","Fleming",1881,"1955-03-11","Scotland","GB","male",1945,"medicine",3,64
+"357",340,"Ernst Boris","Chain",1906,"1979-08-12","Germany","DE","male",1945,"medicine",3,39
+"358",341,"Sir Howard Walter","Florey",1898,"1968-02-21","Australia","AU","male",1945,"medicine",3,47
+"359",342,"Hermann Joseph","Muller",1890,"1967-04-05","USA","US","male",1946,"medicine",1,56
+"360",343,"Carl Ferdinand","Cori",1896,"1984-10-20","Austria-Hungary (now Czech Republic)","CZ","male",1947,"medicine",4,51
+"361",344,"Gerty Theresa","Cori, née Radnitz",1896,"1957-10-26","Austria-Hungary (now Czech Republic)","CZ","female",1947,"medicine",4,51
+"362",345,"Bernardo Alberto","Houssay",1887,"1971-09-21","Argentina","AR","male",1947,"medicine",2,60
+"363",346,"Paul Hermann","Müller",1899,"1965-10-12","Switzerland","CH","male",1948,"medicine",1,49
+"364",347,"Walter Rudolf","Hess",1881,"1973-08-12","Switzerland","CH","male",1949,"medicine",2,68
+"365",348,"Antonio Caetano de Abreu Freire Egas","Moniz",1874,"1955-12-13","Portugal","PT","male",1949,"medicine",2,75
+"366",348,"Antonio Caetano de Abreu Freire Egas","Moniz",1874,"1955-12-13","Portugal","PT","male",1949,"medicine",2,75
+"367",349,"Edward Calvin","Kendall",1886,"1972-05-04","USA","US","male",1950,"medicine",3,64
+"368",350,"Tadeus","Reichstein",1897,"1996-08-01","Poland","PL","male",1950,"medicine",3,53
+"369",351,"Philip Showalter","Hench",1896,"1965-03-30","USA","US","male",1950,"medicine",3,54
+"370",352,"Max","Theiler",1899,"1972-08-11","South Africa","ZA","male",1951,"medicine",1,52
+"371",353,"Selman Abraham","Waksman",1888,"1973-08-16","Russian Empire (now Ukraine)","UA","male",1952,"medicine",1,64
+"372",354,"Hans Adolf","Krebs",1900,"1981-11-22","Germany","DE","male",1953,"medicine",2,53
+"373",355,"Fritz Albert","Lipmann",1899,"1986-07-24","Germany (now Russia)","RU","male",1953,"medicine",2,54
+"374",355,"Fritz Albert","Lipmann",1899,"1986-07-24","Germany (now Russia)","RU","male",1953,"medicine",2,54
+"375",356,"John Franklin","Enders",1897,"1985-09-08","USA","US","male",1954,"medicine",3,57
+"376",356,"John Franklin","Enders",1897,"1985-09-08","USA","US","male",1954,"medicine",3,57
+"377",357,"Thomas Huckle","Weller",1915,"2008-08-23","USA","US","male",1954,"medicine",3,39
+"378",358,"Frederick Chapman","Robbins",1916,"2003-08-04","USA","US","male",1954,"medicine",3,38
+"379",359,"Axel Hugo Theodor","Theorell",1903,"1982-08-15","Sweden","SE","male",1955,"medicine",1,52
+"380",360,"André Frédéric","Cournand",1895,"1988-02-19","France","FR","male",1956,"medicine",3,61
+"381",361,"Werner","Forssmann",1904,"1979-06-01","Germany","DE","male",1956,"medicine",3,52
+"382",361,"Werner","Forssmann",1904,"1979-06-01","Germany","DE","male",1956,"medicine",3,52
+"383",362,"Dickinson W.","Richards",1895,"1973-02-23","USA","US","male",1956,"medicine",3,61
+"384",363,"Daniel","Bovet",1907,"1992-04-08","Switzerland","CH","male",1957,"medicine",1,50
+"385",364,"George Wells","Beadle",1903,"1989-06-09","USA","US","male",1958,"medicine",4,55
+"386",365,"Edward Lawrie","Tatum",1909,"1975-11-05","USA","US","male",1958,"medicine",4,49
+"387",366,"Joshua","Lederberg",1925,"2008-02-02","USA","US","male",1958,"medicine",2,33
+"388",367,"Severo","Ochoa",1905,"1993-11-01","Spain","ES","male",1959,"medicine",2,54
+"389",368,"Arthur","Kornberg",1918,"2007-10-26","USA","US","male",1959,"medicine",2,41
+"390",369,"Sir Frank Macfarlane","Burnet",1899,"1985-08-31","Australia","AU","male",1960,"medicine",2,61
+"391",370,"Peter Brian","Medawar",1915,"1987-10-02","Brazil","BR","male",1960,"medicine",2,45
+"392",371,"Georg","von Békésy",1899,"1972-06-13","Hungary","HU","male",1961,"medicine",1,62
+"393",372,"Francis Harry Compton","Crick",1916,"2004-07-28","United Kingdom","GB","male",1962,"medicine",3,46
+"394",373,"James Dewey","Watson",1928,"0000-00-00","USA","US","male",1962,"medicine",3,34
+"395",374,"Maurice Hugh Frederick","Wilkins",1916,"2004-10-05","New Zealand","NZ","male",1962,"medicine",3,46
+"396",375,"Sir John Carew","Eccles",1903,"1997-05-02","Australia","AU","male",1963,"medicine",3,60
+"397",376,"Alan Lloyd","Hodgkin",1914,"1998-12-20","United Kingdom","GB","male",1963,"medicine",3,49
+"398",377,"Andrew Fielding","Huxley",1917,"2012-05-30","United Kingdom","GB","male",1963,"medicine",3,46
+"399",378,"Konrad","Bloch",1912,"2000-10-15","Germany (now Poland)","PL","male",1964,"medicine",2,52
+"400",379,"Feodor","Lynen",1911,"1979-08-06","Germany","DE","male",1964,"medicine",2,53
+"401",380,"François","Jacob",1920,"2013-04-19","France","FR","male",1965,"medicine",3,45
+"402",381,"André","Lwoff",1902,"1994-09-30","France","FR","male",1965,"medicine",3,63
+"403",382,"Jacques","Monod",1910,"1976-05-31","France","FR","male",1965,"medicine",3,55
+"404",383,"Peyton","Rous",1879,"1972-02-16","USA","US","male",1966,"medicine",2,87
+"405",384,"Charles Brenton","Huggins",1901,"1997-01-12","Canada","CA","male",1966,"medicine",2,65
+"406",385,"Ragnar","Granit",1900,"1991-03-12","Russian Empire (now Finland)","FI","male",1967,"medicine",3,67
+"407",386,"Haldan Keffer","Hartline",1903,"1983-03-17","USA","US","male",1967,"medicine",3,64
+"408",387,"George","Wald",1906,"1997-04-12","USA","US","male",1967,"medicine",3,61
+"409",388,"Robert W.","Holley",1922,"1993-02-11","USA","US","male",1968,"medicine",3,46
+"410",389,"Har Gobind","Khorana",1922,"2011-11-09","India","IN","male",1968,"medicine",3,46
+"411",390,"Marshall W.","Nirenberg",1927,"2010-01-15","USA","US","male",1968,"medicine",3,41
+"412",391,"Max","Delbrück",1906,"1981-03-09","Germany","DE","male",1969,"medicine",3,63
+"413",392,"Alfred D.","Hershey",1908,"1997-05-22","USA","US","male",1969,"medicine",3,61
+"414",393,"Salvador E.","Luria",1912,"1991-02-06","Italy","IT","male",1969,"medicine",3,57
+"415",394,"Sir Bernard","Katz",1911,"2003-04-20","Germany","DE","male",1970,"medicine",3,59
+"416",395,"Ulf","von Euler",1905,"1983-03-09","Sweden","SE","male",1970,"medicine",3,65
+"417",396,"Julius","Axelrod",1912,"2004-12-29","USA","US","male",1970,"medicine",3,58
+"418",397,"Earl W.","Sutherland, Jr.",1915,"1974-03-09","USA","US","male",1971,"medicine",1,56
+"419",398,"Gerald M.","Edelman",1929,"2014-05-17","USA","US","male",1972,"medicine",2,43
+"420",399,"Rodney R.","Porter",1917,"1985-09-06","United Kingdom","GB","male",1972,"medicine",2,55
+"421",400,"Karl","von Frisch",1886,"1982-06-12","Austria","AT","male",1973,"medicine",3,87
+"422",401,"Konrad","Lorenz",1903,"1989-02-27","Austria","AT","male",1973,"medicine",3,70
+"423",402,"Nikolaas","Tinbergen",1907,"1988-12-21","the Netherlands","NL","male",1973,"medicine",3,66
+"424",403,"Albert","Claude",1898,"1983-05-22","Belgium","BE","male",1974,"medicine",3,76
+"425",404,"Christian","de Duve",1917,"2013-05-04","United Kingdom","GB","male",1974,"medicine",3,57
+"426",404,"Christian","de Duve",1917,"2013-05-04","United Kingdom","GB","male",1974,"medicine",3,57
+"427",405,"George E.","Palade",1912,"2008-10-07","Romania","RO","male",1974,"medicine",3,62
+"428",406,"David","Baltimore",1938,"0000-00-00","USA","US","male",1975,"medicine",3,37
+"429",407,"Renato","Dulbecco",1914,"2012-02-19","Italy","IT","male",1975,"medicine",3,61
+"430",408,"Howard Martin","Temin",1934,"1994-02-09","USA","US","male",1975,"medicine",3,41
+"431",409,"Baruch S.","Blumberg",1925,"2011-04-05","USA","US","male",1976,"medicine",2,51
+"432",410,"D. Carleton","Gajdusek",1923,"2008-12-12","USA","US","male",1976,"medicine",2,53
+"433",411,"Roger","Guillemin",1924,"0000-00-00","France","FR","male",1977,"medicine",4,53
+"434",412,"Andrew V.","Schally",1926,"0000-00-00","Poland (now Lithuania)","LT","male",1977,"medicine",4,51
+"435",413,"Rosalyn","Yalow",1921,"2011-05-30","USA","US","female",1977,"medicine",2,56
+"436",414,"Werner","Arber",1929,"0000-00-00","Switzerland","CH","male",1978,"medicine",3,49
+"437",415,"Daniel","Nathans",1928,"1999-11-16","USA","US","male",1978,"medicine",3,50
+"438",416,"Hamilton O.","Smith",1931,"0000-00-00","USA","US","male",1978,"medicine",3,47
+"439",417,"Allan M.","Cormack",1924,"1998-05-07","South Africa","ZA","male",1979,"medicine",2,55
+"440",418,"Godfrey N.","Hounsfield",1919,"2004-08-12","United Kingdom","GB","male",1979,"medicine",2,60
+"441",419,"Baruj","Benacerraf",1920,"2011-08-02","Venezuela","VE","male",1980,"medicine",3,60
+"442",420,"Jean","Dausset",1916,"2009-06-06","France","FR","male",1980,"medicine",3,64
+"443",421,"George D.","Snell",1903,"1996-06-06","USA","US","male",1980,"medicine",3,77
+"444",422,"Roger W.","Sperry",1913,"1994-04-17","USA","US","male",1981,"medicine",2,68
+"445",423,"David H.","Hubel",1926,"2013-09-22","Canada","CA","male",1981,"medicine",4,55
+"446",424,"Torsten N.","Wiesel",1924,"0000-00-00","Sweden","SE","male",1981,"medicine",4,57
+"447",425,"Sune K.","Bergström",1916,"2004-08-15","Sweden","SE","male",1982,"medicine",3,66
+"448",426,"Bengt I.","Samuelsson",1934,"0000-00-00","Sweden","SE","male",1982,"medicine",3,48
+"449",427,"John R.","Vane",1927,"2004-11-19","United Kingdom","GB","male",1982,"medicine",3,55
+"450",428,"Barbara","McClintock",1902,"1992-09-02","USA","US","female",1983,"medicine",1,81
+"451",429,"Niels K.","Jerne",1911,"1994-10-07","United Kingdom","GB","male",1984,"medicine",3,73
+"452",430,"Georges J.F.","Köhler",1946,"1995-03-01","Germany","DE","male",1984,"medicine",3,38
+"453",431,"César","Milstein",1927,"2002-03-24","Argentina","AR","male",1984,"medicine",3,57
+"454",432,"Michael S.","Brown",1941,"0000-00-00","USA","US","male",1985,"medicine",2,44
+"455",433,"Joseph L.","Goldstein",1940,"0000-00-00","USA","US","male",1985,"medicine",2,45
+"456",434,"Stanley","Cohen",1922,"0000-00-00","USA","US","male",1986,"medicine",2,64
+"457",435,"Rita","Levi-Montalcini",1909,"2012-12-30","Italy","IT","female",1986,"medicine",2,77
+"458",436,"Susumu","Tonegawa",1939,"0000-00-00","Japan","JP","male",1987,"medicine",1,48
+"459",437,"Sir James W.","Black",1924,"2010-03-21","Scotland","GB","male",1988,"medicine",3,64
+"460",438,"Gertrude B.","Elion",1918,"1999-02-21","USA","US","female",1988,"medicine",3,70
+"461",439,"George H.","Hitchings",1905,"1998-02-27","USA","US","male",1988,"medicine",3,83
+"462",440,"J. Michael","Bishop",1936,"0000-00-00","USA","US","male",1989,"medicine",2,53
+"463",441,"Harold E.","Varmus",1939,"0000-00-00","USA","US","male",1989,"medicine",2,50
+"464",442,"Joseph E.","Murray",1919,"2012-11-26","USA","US","male",1990,"medicine",2,71
+"465",443,"E. Donnall","Thomas",1920,"2012-10-20","USA","US","male",1990,"medicine",2,70
+"466",444,"Erwin","Neher",1944,"0000-00-00","Germany","DE","male",1991,"medicine",2,47
+"467",445,"Bert","Sakmann",1942,"0000-00-00","Germany","DE","male",1991,"medicine",2,49
+"468",446,"Edmond H.","Fischer",1920,"0000-00-00","China","CN","male",1992,"medicine",2,72
+"469",447,"Edwin G.","Krebs",1918,"2009-12-21","USA","US","male",1992,"medicine",2,74
+"470",448,"Richard J.","Roberts",1943,"0000-00-00","United Kingdom","GB","male",1993,"medicine",2,50
+"471",449,"Phillip A.","Sharp",1944,"0000-00-00","USA","US","male",1993,"medicine",2,49
+"472",450,"Alfred G.","Gilman",1941,"0000-00-00","USA","US","male",1994,"medicine",2,53
+"473",451,"Martin","Rodbell",1925,"1998-12-07","USA","US","male",1994,"medicine",2,69
+"474",452,"Edward B.","Lewis",1918,"2004-07-21","USA","US","male",1995,"medicine",3,77
+"475",453,"Christiane","Nüsslein-Volhard",1942,"0000-00-00","Germany","DE","female",1995,"medicine",3,53
+"476",454,"Eric F.","Wieschaus",1947,"0000-00-00","USA","US","male",1995,"medicine",3,48
+"477",455,"Peter C.","Doherty",1940,"0000-00-00","Australia","AU","male",1996,"medicine",2,56
+"478",456,"Rolf M.","Zinkernagel",1944,"0000-00-00","Switzerland","CH","male",1996,"medicine",2,52
+"479",457,"Stanley B.","Prusiner",1942,"0000-00-00","USA","US","male",1997,"medicine",1,55
+"480",458,"Robert F.","Furchgott",1916,"2009-05-19","USA","US","male",1998,"medicine",3,82
+"481",459,"Louis J.","Ignarro",1941,"0000-00-00","USA","US","male",1998,"medicine",3,57
+"482",460,"Ferid","Murad",1936,"0000-00-00","USA","US","male",1998,"medicine",3,62
+"483",461,"Günter","Blobel",1936,"0000-00-00","Germany (now Poland)","PL","male",1999,"medicine",1,63
+"484",461,"Günter","Blobel",1936,"0000-00-00","Germany (now Poland)","PL","male",1999,"medicine",1,63
+"485",462,"Jean Henry","Dunant",1828,"1910-10-30","Switzerland","CH","male",1901,"peace",2,73
+"486",463,"Frédéric","Passy",1822,"1912-06-12","France","FR","male",1901,"peace",2,79
+"487",464,"Élie","Ducommun",1833,"1906-12-07","Switzerland","CH","male",1902,"peace",2,69
+"488",465,"Charles Albert","Gobat",1843,"1914-03-16","Switzerland","CH","male",1902,"peace",2,59
+"489",466,"William Randal","Cremer",1828,"1908-07-22","United Kingdom","GB","male",1903,"peace",1,75
+"491",468,"Baroness Bertha Sophie Felicita","von Suttner, née Countess Kinsky von Chinic und Tettau",1843,"1914-06-21","Austrian Empire (now Czech Republic)","CZ","female",1905,"peace",1,62
+"492",470,"Theodore","Roosevelt",1858,"1919-01-06","USA","US","male",1906,"peace",1,48
+"493",471,"Ernesto Teodoro","Moneta",1833,"1918-02-10","Austrian Empire (now Italy)","IT","male",1907,"peace",2,74
+"494",472,"Louis","Renault",1843,"1918-02-08","France","FR","male",1907,"peace",2,64
+"495",473,"Klas Pontus","Arnoldson",1844,"1916-02-20","Sweden","SE","male",1908,"peace",2,64
+"496",474,"Fredrik","Bajer",1837,"1922-01-22","Denmark","DK","male",1908,"peace",2,71
+"497",475,"Auguste Marie François","Beernaert",1829,"1912-10-06","Belgium","BE","male",1909,"peace",2,80
+"498",476,"Paul Henri Benjamin Balluet","d'Estournelles de Constant, Baron de Constant de Rebecque",1852,"1924-05-15","France","FR","male",1909,"peace",2,57
+"500",478,"Tobias Michael Carel","Asser",1838,"1913-07-29","the Netherlands","NL","male",1911,"peace",2,73
+"501",479,"Alfred Hermann","Fried",1864,"1921-05-05","Austria","AT","male",1911,"peace",2,47
+"502",480,"Elihu","Root",1845,"1937-02-07","USA","US","male",1912,"peace",1,67
+"503",481,"Henri","La Fontaine",1854,"1943-05-14","Belgium","BE","male",1913,"peace",1,59
+"507",483,"Thomas Woodrow","Wilson",1856,"1924-02-03","USA","US","male",1919,"peace",1,63
+"508",484,"Léon Victor Auguste","Bourgeois",1851,"1925-09-29","France","FR","male",1920,"peace",1,69
+"509",485,"Karl Hjalmar","Branting",1860,"1925-02-24","Sweden","SE","male",1921,"peace",2,61
+"510",486,"Christian Lous","Lange",1869,"1938-12-11","Norway","NO","male",1921,"peace",2,52
+"511",487,"Fridtjof","Nansen",1861,"1930-05-13","Norway","NO","male",1922,"peace",1,61
+"512",488,"Sir Austen","Chamberlain",1863,"1937-03-16","United Kingdom","GB","male",1925,"peace",2,62
+"513",489,"Charles Gates","Dawes",1865,"1951-04-23","USA","US","male",1925,"peace",2,60
+"514",490,"Aristide","Briand",1862,"1932-03-07","France","FR","male",1926,"peace",2,64
+"515",491,"Gustav","Stresemann",1878,"1929-10-03","Germany","DE","male",1926,"peace",2,48
+"516",492,"Ferdinand","Buisson",1841,"1932-02-16","France","FR","male",1927,"peace",2,86
+"517",493,"Ludwig","Quidde",1858,"1941-03-04","Germany","DE","male",1927,"peace",2,69
+"518",494,"Frank Billings","Kellogg",1856,"1937-12-21","USA","US","male",1929,"peace",1,73
+"519",495,"Lars Olof Jonathan (Nathan)","Söderblom",1866,"1931-07-12","Sweden","SE","male",1930,"peace",1,64
+"520",496,"Jane","Addams",1860,"1935-05-21","USA","US","female",1931,"peace",2,71
+"521",497,"Nicholas Murray","Butler",1862,"1947-12-07","USA","US","male",1931,"peace",2,69
+"522",498,"Sir Norman","Angell (Ralph Lane)",1872,"1967-10-07","United Kingdom","GB","male",1933,"peace",1,61
+"523",499,"Arthur","Henderson",1863,"1935-10-20","Scotland","GB","male",1934,"peace",1,71
+"524",500,"Carl","von Ossietzky",1889,"1938-05-04","Germany","DE","male",1935,"peace",1,46
+"525",501,"Carlos","Saavedra Lamas",1878,"1959-05-05","Argentina","AR","male",1936,"peace",1,58
+"526",502,"Cecil of Chelwood, Viscount","(Lord Edgar Algernon Robert Gascoyne Cecil)",1864,"1958-11-24","United Kingdom","GB","male",1937,"peace",1,73
+"528",505,"Cordell","Hull",1871,"1955-07-23","USA","US","male",1945,"peace",1,74
+"529",506,"Emily Greene","Balch",1867,"1961-01-09","USA","US","female",1946,"peace",2,79
+"530",507,"John Raleigh","Mott",1865,"1955-01-31","USA","US","male",1946,"peace",2,81
+"533",510,"Lord (John)","Boyd Orr of Brechin",1880,"1971-06-25","Scotland","GB","male",1949,"peace",1,69
+"534",511,"Ralph","Bunche",1904,"1971-12-09","USA","US","male",1950,"peace",1,46
+"535",512,"Léon","Jouhaux",1879,"1954-04-28","France","FR","male",1951,"peace",1,72
+"536",513,"Albert","Schweitzer",1875,"1965-09-04","Germany (now France)","FR","male",1952,"peace",1,77
+"537",514,"George Catlett","Marshall",1880,"1959-10-16","USA","US","male",1953,"peace",1,73
+"540",516,"Lester Bowles","Pearson",1897,"1972-12-27","Canada","CA","male",1957,"peace",1,60
+"541",517,"Georges","Pire",1910,"1969-01-30","Belgium","BE","male",1958,"peace",1,48
+"542",518,"Philip J.","Noel-Baker",1889,"1982-10-08","United Kingdom","GB","male",1959,"peace",1,70
+"543",519,"Albert John","Lutuli",1898,"1967-07-21","Southern Rhodesia (now Zimbabwe)","ZW","male",1960,"peace",1,62
+"544",520,"Dag Hjalmar Agne Carl","Hammarskjöld",1905,"1961-09-18","Sweden","SE","male",1961,"peace",1,56
+"546",524,"Martin Luther","King Jr.",1929,"1968-04-04","USA","US","male",1964,"peace",1,35
+"548",526,"René","Cassin",1887,"1976-02-20","France","FR","male",1968,"peace",1,81
+"550",528,"Norman E.","Borlaug",1914,"2009-09-12","USA","US","male",1970,"peace",1,56
+"551",529,"Willy","Brandt",1913,"1992-10-08","Germany","DE","male",1971,"peace",1,58
+"552",530,"Henry A.","Kissinger",1923,"0000-00-00","Germany","DE","male",1973,"peace",2,50
+"553",531,"Le Duc Tho","",1911,"1990-10-13","Vietnam","VN","male",1973,"peace",2,62
+"554",532,"Seán","MacBride",1904,"1988-01-15","France","FR","male",1974,"peace",2,70
+"555",533,"Eisaku","Sato",1901,"1975-06-03","Japan","JP","male",1974,"peace",2,73
+"556",534,"Andrei Dmitrievich","Sakharov",1921,"1989-12-14","Russia","RU","male",1975,"peace",1,54
+"557",535,"Betty","Williams",1943,"0000-00-00","Northern Ireland","GB","female",1976,"peace",2,33
+"558",536,"Mairead","Corrigan",1944,"0000-00-00","Northern Ireland","GB","female",1976,"peace",2,32
+"560",538,"Mohamed Anwar","al-Sadat",1918,"1981-10-06","Egypt","EG","male",1978,"peace",2,60
+"561",539,"Menachem","Begin",1913,"1992-03-09","Russian Empire (now Belarus)","BY","male",1978,"peace",2,65
+"562",540,"Mother Teresa","",1910,"1997-09-05","Ottoman Empire (now Republic of Macedonia)","MK","female",1979,"peace",1,69
+"563",541,"Adolfo","Pérez Esquivel",1931,"0000-00-00","Argentina","AR","male",1980,"peace",1,49
+"564",543,"Alva","Myrdal",1902,"1986-02-01","Sweden","SE","female",1982,"peace",2,80
+"565",544,"Alfonso","García Robles",1911,"1991-09-02","Mexico","MX","male",1982,"peace",2,71
+"566",545,"Lech","Walesa",1943,"0000-00-00","Poland","PL","male",1983,"peace",1,40
+"567",546,"Desmond Mpilo","Tutu",1931,"0000-00-00","South Africa","ZA","male",1984,"peace",1,53
+"569",548,"Elie","Wiesel",1928,"0000-00-00","Romania","RO","male",1986,"peace",1,58
+"570",549,"Oscar","Arias Sánchez",1941,"0000-00-00","Costa Rica","CR","male",1987,"peace",1,46
+"572",551,"The 14th Dalai Lama (Tenzin Gyatso)","",1935,"0000-00-00","Tibet (now People's Republic of China)","CN","male",1989,"peace",1,54
+"573",552,"Mikhail Sergeyevich","Gorbachev",1931,"0000-00-00","USSR (now Russia)","RU","male",1990,"peace",1,59
+"574",553,"Aung San Suu Kyi","",1945,"0000-00-00","Burma (now Myanmar)","MM","female",1991,"peace",1,46
+"575",554,"Rigoberta","Menchú Tum",1959,"0000-00-00","Guatemala","GT","female",1992,"peace",1,33
+"576",555,"Nelson","Mandela",1918,"2013-12-05","South Africa","ZA","male",1993,"peace",2,75
+"577",556,"Frederik Willem","de Klerk",1936,"0000-00-00","South Africa","ZA","male",1993,"peace",2,57
+"578",557,"Yasser","Arafat",1929,"2004-11-11","Egypt","EG","male",1994,"peace",3,65
+"579",558,"Shimon","Peres",1923,"0000-00-00","Poland (now Belarus)","BY","male",1994,"peace",3,71
+"580",559,"Yitzhak","Rabin",1922,"1995-11-04","British Mandate of Palestine (now Israel)","IL","male",1994,"peace",3,72
+"581",560,"Joseph","Rotblat",1908,"2005-08-31","Russian Empire (now Poland)","PL","male",1995,"peace",2,87
+"583",562,"Carlos Filipe Ximenes","Belo",1948,"0000-00-00","East Timor","TL","male",1996,"peace",2,48
+"584",563,"José","Ramos-Horta",1949,"0000-00-00","East Timor","TL","male",1996,"peace",2,47
+"586",565,"Jody","Williams",1950,"0000-00-00","USA","US","female",1997,"peace",2,47
+"587",566,"John","Hume",1937,"0000-00-00","Northern Ireland","GB","male",1998,"peace",2,61
+"588",567,"David","Trimble",1944,"0000-00-00","Northern Ireland","GB","male",1998,"peace",2,54
+"590",569,"Sully","Prudhomme",1839,"1907-09-07","France","FR","male",1901,"literature",1,62
+"591",571,"Christian Matthias Theodor","Mommsen",1817,"1903-11-01","Schleswig (now Germany)","DE","male",1902,"literature",1,85
+"592",572,"Bjørnstjerne Martinus","Bjørnson",1832,"1910-04-26","Norway","NO","male",1903,"literature",1,71
+"593",573,"Frédéric","Mistral",1830,"1914-03-25","France","FR","male",1904,"literature",2,74
+"594",574,"José","Echegaray y Eizaguirre",1832,"1916-09-04","Spain","ES","male",1904,"literature",2,72
+"595",575,"Henryk","Sienkiewicz",1846,"1916-11-15","Poland","PL","male",1905,"literature",1,59
+"596",576,"Giosuè","Carducci",1835,"1907-02-16","Tuscany (now Italy)","IT","male",1906,"literature",1,71
+"597",577,"Rudyard","Kipling",1865,"1936-01-18","British India (now India)","IN","male",1907,"literature",1,42
+"598",578,"Rudolf Christoph","Eucken",1846,"1926-09-14","East Friesland (now Germany)","DE","male",1908,"literature",1,62
+"599",579,"Selma Ottilia Lovisa","Lagerlöf",1858,"1940-03-16","Sweden","SE","female",1909,"literature",1,51
+"600",580,"Paul Johann Ludwig","Heyse",1830,"1914-04-02","Prussia (now Germany)","DE","male",1910,"literature",1,80
+"601",581,"Count Maurice (Mooris) Polidore Marie Bernhard","Maeterlinck",1862,"1949-05-06","Belgium","BE","male",1911,"literature",1,49
+"602",582,"Gerhart Johann Robert","Hauptmann",1862,"1946-06-06","Prussia (now Germany)","DE","male",1912,"literature",1,50
+"603",583,"Rabindranath","Tagore",1861,"1941-08-07","India","IN","male",1913,"literature",1,52
+"604",584,"Romain","Rolland",1866,"1944-12-30","France","FR","male",1915,"literature",1,49
+"605",585,"Carl Gustaf Verner","von Heidenstam",1859,"1940-05-20","Sweden","SE","male",1916,"literature",1,57
+"606",586,"Karl Adolph","Gjellerup",1857,"1919-10-11","Denmark","DK","male",1917,"literature",2,60
+"607",587,"Henrik","Pontoppidan",1857,"1943-08-21","Denmark","DK","male",1917,"literature",2,60
+"608",588,"Carl Friedrich Georg","Spitteler",1845,"1924-12-29","Switzerland","CH","male",1919,"literature",1,74
+"609",589,"Knut Pedersen","Hamsun",1859,"1952-02-19","Norway","NO","male",1920,"literature",1,61
+"610",590,"Anatole","France",1844,"1924-10-12","France","FR","male",1921,"literature",1,77
+"611",592,"Jacinto","Benavente",1866,"1954-07-14","Spain","ES","male",1922,"literature",1,56
+"612",593,"William Butler","Yeats",1865,"1939-01-28","Ireland","IE","male",1923,"literature",1,58
+"613",594,"Wladyslaw Stanislaw","Reymont",1867,"1925-12-05","Russian Empire (now Poland)","PL","male",1924,"literature",1,57
+"614",596,"George Bernard","Shaw",1856,"1950-11-02","Ireland","IE","male",1925,"literature",1,69
+"615",597,"Grazia","Deledda",1871,"1936-08-15","Italy","IT","female",1926,"literature",1,55
+"616",600,"Henri","Bergson",1859,"1941-01-04","France","FR","male",1927,"literature",1,68
+"617",601,"Sigrid","Undset",1882,"1949-06-10","Denmark","DK","female",1928,"literature",1,46
+"618",602,"Thomas","Mann",1875,"1955-08-12","Germany","DE","male",1929,"literature",1,54
+"619",603,"Sinclair","Lewis",1885,"1951-01-10","USA","US","male",1930,"literature",1,45
+"620",604,"Erik Axel","Karlfeldt",1864,"1931-04-08","Sweden","SE","male",1931,"literature",1,67
+"621",605,"John","Galsworthy",1867,"1933-01-31","United Kingdom","GB","male",1932,"literature",1,65
+"622",606,"Ivan Alekseyevich","Bunin",1870,"1953-11-08","Russia","RU","male",1933,"literature",1,63
+"623",607,"Luigi","Pirandello",1867,"1936-12-10","Italy","IT","male",1934,"literature",1,67
+"624",608,"Eugene Gladstone","O'Neill",1888,"1953-11-27","USA","US","male",1936,"literature",1,48
+"625",609,"Roger","Martin du Gard",1881,"1958-08-22","France","FR","male",1937,"literature",1,56
+"626",610,"Pearl","Buck",1892,"1973-03-06","USA","US","female",1938,"literature",1,46
+"627",613,"Frans Eemil","Sillanpää",1888,"1964-06-03","Russian Empire (now Finland)","FI","male",1939,"literature",1,51
+"628",614,"Johannes Vilhelm","Jensen",1873,"1950-11-25","Denmark","DK","male",1944,"literature",1,71
+"629",615,"Gabriela","Mistral",1889,"1957-01-10","Chile","CL","female",1945,"literature",1,56
+"630",617,"Hermann","Hesse",1877,"1962-08-09","Germany","DE","male",1946,"literature",1,69
+"631",618,"André Paul Guillaume","Gide",1869,"1951-02-19","France","FR","male",1947,"literature",1,78
+"632",619,"Thomas Stearns","Eliot",1888,"1965-01-04","USA","US","male",1948,"literature",1,60
+"633",620,"William","Faulkner",1897,"1962-07-06","USA","US","male",1949,"literature",1,52
+"634",621,"Earl (Bertrand Arthur William)","Russell",1872,"1970-02-02","United Kingdom","GB","male",1950,"literature",1,78
+"635",622,"Pär Fabian","Lagerkvist",1891,"1974-07-11","Sweden","SE","male",1951,"literature",1,60
+"636",623,"François","Mauriac",1885,"1970-09-01","France","FR","male",1952,"literature",1,67
+"637",624,"Sir Winston Leonard Spencer","Churchill",1874,"1965-01-24","United Kingdom","GB","male",1953,"literature",1,79
+"638",625,"Ernest Miller","Hemingway",1899,"1961-07-02","USA","US","male",1954,"literature",1,55
+"639",626,"Halldór Kiljan","Laxness",1902,"1998-02-08","Iceland","IS","male",1955,"literature",1,53
+"640",627,"Juan Ramón","Jiménez",1881,"1958-05-29","Spain","ES","male",1956,"literature",1,75
+"641",628,"Albert","Camus",1913,"1960-01-04","French Algeria (now Algeria)","DZ","male",1957,"literature",1,44
+"642",629,"Boris Leonidovich","Pasternak",1890,"1960-05-30","Russia","RU","male",1958,"literature",1,68
+"643",630,"Salvatore","Quasimodo",1901,"1968-06-14","Italy","IT","male",1959,"literature",1,58
+"644",631,"Saint-John","Perse",1887,"1975-09-20","Guadeloupe Island","GP","male",1960,"literature",1,73
+"645",633,"Ivo","Andric",1892,"1975-03-13","Bosnia (now Bosnia and Herzegovina)","BA","male",1961,"literature",1,69
+"646",634,"John","Steinbeck",1902,"1968-12-20","USA","US","male",1962,"literature",1,60
+"647",635,"Giorgos","Seferis",1900,"1971-09-20","Ottoman Empire (now Turkey)","TR","male",1963,"literature",1,63
+"648",637,"Jean-Paul","Sartre",1905,"1980-04-15","France","FR","male",1964,"literature",1,59
+"649",638,"Mikhail Aleksandrovich","Sholokhov",1905,"1984-02-21","Russia","RU","male",1965,"literature",1,60
+"650",639,"Shmuel Yosef","Agnon",1888,"1970-02-17","Austria-Hungary (now Ukraine)","UA","male",1966,"literature",2,78
+"651",640,"Nelly","Sachs",1891,"1970-05-12","Germany","DE","female",1966,"literature",2,75
+"652",641,"Miguel Angel","Asturias",1899,"1974-06-09","Guatemala","GT","male",1967,"literature",1,68
+"653",642,"Yasunari","Kawabata",1899,"1972-04-16","Japan","JP","male",1968,"literature",1,69
+"654",643,"Samuel","Beckett",1906,"1989-12-22","Ireland","IE","male",1969,"literature",1,63
+"655",644,"Aleksandr Isayevich","Solzhenitsyn",1918,"2008-08-03","Russia","RU","male",1970,"literature",1,52
+"656",645,"Pablo","Neruda",1904,"1973-09-23","Chile","CL","male",1971,"literature",1,67
+"657",647,"Heinrich","Böll",1917,"1985-07-16","Germany","DE","male",1972,"literature",1,55
+"658",648,"Patrick","White",1912,"1990-09-30","United Kingdom","GB","male",1973,"literature",1,61
+"659",649,"Eyvind","Johnson",1900,"1976-08-25","Sweden","SE","male",1974,"literature",2,74
+"660",650,"Harry","Martinson",1904,"1978-02-11","Sweden","SE","male",1974,"literature",2,70
+"661",651,"Eugenio","Montale",1896,"1981-09-12","Italy","IT","male",1975,"literature",1,79
+"662",652,"Saul","Bellow",1915,"2005-04-05","Canada","CA","male",1976,"literature",1,61
+"663",653,"Vicente","Aleixandre",1898,"1984-12-14","Spain","ES","male",1977,"literature",1,79
+"664",654,"Isaac Bashevis","Singer",1904,"1991-07-24","Russian Empire (now Poland)","PL","male",1978,"literature",1,74
+"665",655,"Odysseus","Elytis",1911,"1996-03-18","Crete (now Greece)","GR","male",1979,"literature",1,68
+"666",657,"Czeslaw","Milosz",1911,"2004-08-14","Russian Empire (now Lithuania)","LT","male",1980,"literature",1,69
+"667",658,"Elias","Canetti",1905,"1994-08-14","Bulgaria","BG","male",1981,"literature",1,76
+"668",659,"Gabriel","García Márquez",1927,"2014-04-17","Colombia","CO","male",1982,"literature",1,55
+"669",660,"William","Golding",1911,"1993-06-19","United Kingdom","GB","male",1983,"literature",1,72
+"670",661,"Jaroslav","Seifert",1901,"1986-01-10","Austria-Hungary (now Czech Republic)","CZ","male",1984,"literature",1,83
+"671",662,"Claude","Simon",1913,"2005-07-06","Madagascar","MG","male",1985,"literature",1,72
+"672",663,"Wole","Soyinka",1934,"0000-00-00","Nigeria","NG","male",1986,"literature",1,52
+"673",664,"Joseph","Brodsky",1940,"1996-01-28","USSR (now Russia)","RU","male",1987,"literature",1,47
+"674",665,"Naguib","Mahfouz",1911,"2006-08-30","Egypt","EG","male",1988,"literature",1,77
+"675",666,"Camilo José","Cela",1916,"2002-01-17","Spain","ES","male",1989,"literature",1,73
+"676",667,"Octavio","Paz",1914,"1998-04-19","Mexico","MX","male",1990,"literature",1,76
+"677",668,"Nadine","Gordimer",1923,"2014-07-13","South Africa","ZA","female",1991,"literature",1,68
+"678",669,"Derek","Walcott",1930,"0000-00-00","Saint Lucia","LC","male",1992,"literature",1,62
+"679",670,"Toni","Morrison",1931,"0000-00-00","USA","US","female",1993,"literature",1,62
+"680",671,"Kenzaburo","Oe",1935,"0000-00-00","Japan","JP","male",1994,"literature",1,59
+"681",672,"Seamus","Heaney",1939,"2013-08-30","Northern Ireland","GB","male",1995,"literature",1,56
+"682",673,"Wislawa","Szymborska",1923,"2012-02-01","Poland","PL","female",1996,"literature",1,73
+"683",674,"Dario","Fo",1926,"0000-00-00","Italy","IT","male",1997,"literature",1,71
+"684",675,"José","Saramago",1922,"2010-06-18","Portugal","PT","male",1998,"literature",1,76
+"685",676,"Günter","Grass",1927,"0000-00-00","Free City of Danzig (now Poland)","PL","male",1999,"literature",1,72
+"686",677,"Ragnar","Frisch",1895,"1973-01-31","Norway","NO","male",1969,"economics",2,74
+"687",678,"Jan","Tinbergen",1903,"1994-06-09","the Netherlands","NL","male",1969,"economics",2,66
+"688",679,"Paul A.","Samuelson",1915,"2009-12-13","USA","US","male",1970,"economics",1,55
+"689",680,"Simon","Kuznets",1901,"1985-07-08","Russian Empire (now Belarus)","BY","male",1971,"economics",1,70
+"690",681,"John R.","Hicks",1904,"1989-05-20","United Kingdom","GB","male",1972,"economics",2,68
+"691",682,"Kenneth J.","Arrow",1921,"0000-00-00","USA","US","male",1972,"economics",2,51
+"692",683,"Wassily","Leontief",1906,"1999-02-05","Russia","RU","male",1973,"economics",1,67
+"693",684,"Gunnar","Myrdal",1898,"1987-05-17","Sweden","SE","male",1974,"economics",2,76
+"694",685,"Friedrich August","von Hayek",1899,"1992-03-23","Austria","AT","male",1974,"economics",2,75
+"695",686,"Leonid Vitaliyevich","Kantorovich",1912,"1986-04-07","Russian Empire (now Russia)","RU","male",1975,"economics",2,63
+"696",687,"Tjalling C.","Koopmans",1910,"1985-02-26","the Netherlands","NL","male",1975,"economics",2,65
+"697",688,"Milton","Friedman",1912,"2006-11-16","USA","US","male",1976,"economics",1,64
+"698",689,"Bertil","Ohlin",1899,"1979-08-03","Sweden","SE","male",1977,"economics",2,78
+"699",690,"James E.","Meade",1907,"1995-12-22","United Kingdom","GB","male",1977,"economics",2,70
+"700",691,"Herbert A.","Simon",1916,"2001-02-09","USA","US","male",1978,"economics",1,62
+"701",692,"Theodore W.","Schultz",1902,"1998-02-26","USA","US","male",1979,"economics",2,77
+"702",693,"Sir Arthur","Lewis",1915,"1991-06-15","British West Indies (now Saint Lucia)","LC","male",1979,"economics",2,64
+"703",694,"Lawrence R.","Klein",1920,"2013-10-20","USA","US","male",1980,"economics",1,60
+"704",695,"James","Tobin",1918,"2002-03-11","USA","US","male",1981,"economics",1,63
+"705",696,"George J.","Stigler",1911,"1991-12-01","USA","US","male",1982,"economics",1,71
+"706",697,"Gerard","Debreu",1921,"2004-12-31","France","FR","male",1983,"economics",1,62
+"707",698,"Richard","Stone",1913,"1991-12-06","United Kingdom","GB","male",1984,"economics",1,71
+"708",699,"Franco","Modigliani",1918,"2003-09-25","Italy","IT","male",1985,"economics",1,67
+"709",700,"James M.","Buchanan Jr.",1919,"2013-01-09","USA","US","male",1986,"economics",1,67
+"710",701,"Robert M.","Solow",1924,"0000-00-00","USA","US","male",1987,"economics",1,63
+"711",702,"Maurice","Allais",1911,"2010-10-09","France","FR","male",1988,"economics",1,77
+"712",703,"Trygve","Haavelmo",1911,"1999-07-26","Norway","NO","male",1989,"economics",1,78
+"713",704,"Harry M.","Markowitz",1927,"0000-00-00","USA","US","male",1990,"economics",3,63
+"714",705,"Merton H.","Miller",1923,"2000-06-03","USA","US","male",1990,"economics",3,67
+"715",706,"William F.","Sharpe",1934,"0000-00-00","USA","US","male",1990,"economics",3,56
+"716",707,"Ronald H.","Coase",1910,"2013-09-02","United Kingdom","GB","male",1991,"economics",1,81
+"717",708,"Gary S.","Becker",1930,"2014-05-03","USA","US","male",1992,"economics",1,62
+"718",709,"Robert W.","Fogel",1927,"2013-06-11","USA","US","male",1993,"economics",2,66
+"719",710,"Douglass C.","North",1920,"0000-00-00","USA","US","male",1993,"economics",2,73
+"720",711,"John C.","Harsanyi",1920,"2000-08-09","Hungary","HU","male",1994,"economics",3,74
+"721",712,"John F.","Nash Jr.",1928,"0000-00-00","USA","US","male",1994,"economics",3,66
+"722",713,"Reinhard","Selten",1930,"0000-00-00","Germany (now Poland)","PL","male",1994,"economics",3,64
+"723",714,"Robert E.","Lucas Jr.",1937,"0000-00-00","USA","US","male",1995,"economics",1,58
+"724",715,"James A.","Mirrlees",1936,"0000-00-00","Scotland","GB","male",1996,"economics",2,60
+"725",716,"William","Vickrey",1914,"1996-10-11","Canada","CA","male",1996,"economics",2,82
+"726",717,"Robert C.","Merton",1944,"0000-00-00","USA","US","male",1997,"economics",2,53
+"727",718,"Myron S.","Scholes",1941,"0000-00-00","Canada","CA","male",1997,"economics",2,56
+"728",719,"Amartya","Sen",1933,"0000-00-00","India","IN","male",1998,"economics",1,65
+"729",720,"Robert A.","Mundell",1932,"0000-00-00","Canada","CA","male",1999,"economics",1,67
+"730",721,"Il´ja Mikhailovich","Frank",1908,"1990-06-22","Russia","RU","male",1958,"physics",3,50
+"731",721,"Il´ja Mikhailovich","Frank",1908,"1990-06-22","Russia","RU","male",1958,"physics",3,50
+"732",722,"Arvid","Carlsson",1923,"0000-00-00","Sweden","SE","male",2000,"medicine",3,77
+"733",723,"Paul","Greengard",1925,"0000-00-00","USA","US","male",2000,"medicine",3,75
+"734",724,"Eric R.","Kandel",1929,"0000-00-00","Austria","AT","male",2000,"medicine",3,71
+"735",725,"Kim","Dae-jung",1925,"2009-08-18","Korea (now South Korea)","KR","male",2000,"peace",1,75
+"736",726,"Zhores I.","Alferov",1930,"0000-00-00","USSR (now Belarus)","BY","male",2000,"physics",4,70
+"737",727,"Herbert","Kroemer",1928,"0000-00-00","Germany","DE","male",2000,"physics",4,72
+"738",728,"Jack S.","Kilby",1923,"2005-06-20","USA","US","male",2000,"physics",2,77
+"739",729,"Alan J.","Heeger",1936,"0000-00-00","USA","US","male",2000,"chemistry",3,64
+"740",730,"Alan G.","MacDiarmid",1927,"2007-02-07","New Zealand","NZ","male",2000,"chemistry",3,73
+"741",731,"Hideki","Shirakawa",1936,"0000-00-00","Japan","JP","male",2000,"chemistry",3,64
+"742",732,"James J.","Heckman",1944,"0000-00-00","USA","US","male",2000,"economics",2,56
+"743",733,"Daniel L.","McFadden",1937,"0000-00-00","USA","US","male",2000,"economics",2,63
+"744",734,"Gao","Xingjian",1940,"0000-00-00","China","CN","male",2000,"literature",1,60
+"745",735,"Leland H.","Hartwell",1939,"0000-00-00","USA","US","male",2001,"medicine",3,62
+"746",736,"Tim","Hunt",1943,"0000-00-00","United Kingdom","GB","male",2001,"medicine",3,58
+"747",737,"Sir Paul M.","Nurse",1949,"0000-00-00","United Kingdom","GB","male",2001,"medicine",3,52
+"748",738,"Eric A.","Cornell",1961,"0000-00-00","USA","US","male",2001,"physics",3,40
+"749",739,"Wolfgang","Ketterle",1957,"0000-00-00","West Germany (now Germany)","DE","male",2001,"physics",3,44
+"750",740,"Carl E.","Wieman",1951,"0000-00-00","USA","US","male",2001,"physics",3,50
+"751",741,"William S.","Knowles",1917,"2012-06-13","USA","US","male",2001,"chemistry",4,84
+"752",742,"Ryoji","Noyori",1938,"0000-00-00","Japan","JP","male",2001,"chemistry",4,63
+"753",743,"K. Barry","Sharpless",1941,"0000-00-00","USA","US","male",2001,"chemistry",2,60
+"754",744,"George A.","Akerlof",1940,"0000-00-00","USA","US","male",2001,"economics",3,61
+"755",745,"A. Michael","Spence",1943,"0000-00-00","USA","US","male",2001,"economics",3,58
+"756",746,"Joseph E.","Stiglitz",1943,"0000-00-00","USA","US","male",2001,"economics",3,58
+"757",747,"Sir Vidiadhar Surajprasad","Naipaul",1932,"0000-00-00","Trinidad","TT","male",2001,"literature",1,69
+"759",749,"Kofi","Annan",1938,"0000-00-00","Gold Coast (now Ghana)","GH","male",2001,"peace",2,63
+"760",750,"Sydney","Brenner",1927,"0000-00-00","South Africa","ZA","male",2002,"medicine",3,75
+"761",751,"H. Robert","Horvitz",1947,"0000-00-00","USA","US","male",2002,"medicine",3,55
+"762",752,"John E.","Sulston",1942,"0000-00-00","United Kingdom","GB","male",2002,"medicine",3,60
+"763",753,"Raymond","Davis Jr.",1914,"2006-05-31","USA","US","male",2002,"physics",4,88
+"764",754,"Masatoshi","Koshiba",1926,"0000-00-00","Japan","JP","male",2002,"physics",4,76
+"765",755,"Riccardo","Giacconi",1931,"0000-00-00","Italy","IT","male",2002,"physics",2,71
+"766",756,"John B.","Fenn",1917,"2010-12-10","USA","US","male",2002,"chemistry",4,85
+"767",757,"Koichi","Tanaka",1959,"0000-00-00","Japan","JP","male",2002,"chemistry",4,43
+"768",758,"Kurt","Wüthrich",1938,"0000-00-00","Switzerland","CH","male",2002,"chemistry",2,64
+"769",758,"Kurt","Wüthrich",1938,"0000-00-00","Switzerland","CH","male",2002,"chemistry",2,64
+"770",759,"Daniel","Kahneman",1934,"0000-00-00","British Mandate of Palestine (now Israel)","IL","male",2002,"economics",2,68
+"771",760,"Vernon L.","Smith",1927,"0000-00-00","USA","US","male",2002,"economics",2,75
+"772",761,"Imre","Kertész",1929,"0000-00-00","Hungary","HU","male",2002,"literature",1,73
+"773",762,"Jimmy","Carter",1924,"0000-00-00","USA","US","male",2002,"peace",1,78
+"774",763,"John M.","Coetzee",1940,"0000-00-00","South Africa","ZA","male",2003,"literature",1,63
+"775",764,"Paul C.","Lauterbur",1929,"2007-03-27","USA","US","male",2003,"medicine",2,74
+"776",765,"Sir Peter","Mansfield",1933,"0000-00-00","United Kingdom","GB","male",2003,"medicine",2,70
+"777",766,"Alexei A.","Abrikosov",1928,"0000-00-00","USSR (now Russia)","RU","male",2003,"physics",3,75
+"778",767,"Vitaly L.","Ginzburg",1916,"2009-11-08","Russia","RU","male",2003,"physics",3,87
+"779",768,"Anthony J.","Leggett",1938,"0000-00-00","United Kingdom","GB","male",2003,"physics",3,65
+"780",769,"Peter","Agre",1949,"0000-00-00","USA","US","male",2003,"chemistry",2,54
+"781",770,"Roderick","MacKinnon",1956,"0000-00-00","USA","US","male",2003,"chemistry",2,47
+"782",770,"Roderick","MacKinnon",1956,"0000-00-00","USA","US","male",2003,"chemistry",2,47
+"783",771,"Robert F.","Engle III",1942,"0000-00-00","USA","US","male",2003,"economics",2,61
+"784",772,"Clive W.J.","Granger",1934,"2009-05-27","United Kingdom","GB","male",2003,"economics",2,69
+"785",773,"Shirin","Ebadi",1947,"0000-00-00","Iran","IR","female",2003,"peace",1,56
+"786",774,"Richard","Axel",1946,"0000-00-00","USA","US","male",2004,"medicine",2,58
+"787",775,"Linda B.","Buck",1947,"0000-00-00","USA","US","female",2004,"medicine",2,57
+"788",776,"David J.","Gross",1941,"0000-00-00","USA","US","male",2004,"physics",3,63
+"789",777,"H. David","Politzer",1949,"0000-00-00","USA","US","male",2004,"physics",3,55
+"790",778,"Frank","Wilczek",1951,"0000-00-00","USA","US","male",2004,"physics",3,53
+"791",779,"Aaron","Ciechanover",1947,"0000-00-00","British Protectorate of Palestine (now Israel)","IL","male",2004,"chemistry",3,57
+"792",780,"Avram","Hershko",1937,"0000-00-00","Hungary","HU","male",2004,"chemistry",3,67
+"793",781,"Irwin","Rose",1926,"0000-00-00","USA","US","male",2004,"chemistry",3,78
+"794",782,"Elfriede","Jelinek",1946,"0000-00-00","Austria","AT","female",2004,"literature",1,58
+"795",783,"Wangari Muta","Maathai",1940,"2011-09-25","Kenya","KE","female",2004,"peace",1,64
+"796",786,"Finn E.","Kydland",1943,"0000-00-00","Norway","NO","male",2004,"economics",2,61
+"797",786,"Finn E.","Kydland",1943,"0000-00-00","Norway","NO","male",2004,"economics",2,61
+"798",787,"Edward C.","Prescott",1940,"0000-00-00","USA","US","male",2004,"economics",2,64
+"799",787,"Edward C.","Prescott",1940,"0000-00-00","USA","US","male",2004,"economics",2,64
+"800",789,"Barry J.","Marshall",1951,"0000-00-00","Australia","AU","male",2005,"medicine",2,54
+"801",789,"Barry J.","Marshall",1951,"0000-00-00","Australia","AU","male",2005,"medicine",2,54
+"802",790,"J. Robin","Warren",1937,"0000-00-00","Australia","AU","male",2005,"medicine",2,68
+"803",791,"Roy J.","Glauber",1925,"0000-00-00","USA","US","male",2005,"physics",2,80
+"804",792,"John L.","Hall",1934,"0000-00-00","USA","US","male",2005,"physics",4,71
+"805",792,"John L.","Hall",1934,"0000-00-00","USA","US","male",2005,"physics",4,71
+"806",793,"Theodor W.","Hänsch",1941,"0000-00-00","Germany","DE","male",2005,"physics",4,64
+"807",793,"Theodor W.","Hänsch",1941,"0000-00-00","Germany","DE","male",2005,"physics",4,64
+"808",794,"Yves","Chauvin",1930,"0000-00-00","Belgium","BE","male",2005,"chemistry",3,75
+"809",795,"Robert H.","Grubbs",1942,"0000-00-00","USA","US","male",2005,"chemistry",3,63
+"810",796,"Richard R.","Schrock",1945,"0000-00-00","USA","US","male",2005,"chemistry",3,60
+"812",798,"Mohamed","ElBaradei",1942,"0000-00-00","Egypt","EG","male",2005,"peace",2,63
+"813",799,"Robert J.","Aumann",1930,"0000-00-00","Germany","DE","male",2005,"economics",2,75
+"814",800,"Thomas C.","Schelling",1921,"0000-00-00","USA","US","male",2005,"economics",2,84
+"815",801,"Harold","Pinter",1930,"2008-12-24","United Kingdom","GB","male",2005,"literature",1,75
+"816",802,"Andrew Z.","Fire",1959,"0000-00-00","USA","US","male",2006,"medicine",2,47
+"817",803,"Craig C.","Mello",1960,"0000-00-00","USA","US","male",2006,"medicine",2,46
+"818",804,"John C.","Mather",1946,"0000-00-00","USA","US","male",2006,"physics",2,60
+"819",805,"George F.","Smoot",1945,"0000-00-00","USA","US","male",2006,"physics",2,61
+"820",806,"Roger D.","Kornberg",1947,"0000-00-00","USA","US","male",2006,"chemistry",1,59
+"821",807,"Edmund S.","Phelps",1933,"0000-00-00","USA","US","male",2006,"economics",1,73
+"822",808,"Orhan","Pamuk",1952,"0000-00-00","Turkey","TR","male",2006,"literature",1,54
+"823",809,"Muhammad","Yunus",1940,"0000-00-00","British India (now Bangladesh)","BD","male",2006,"peace",2,66
+"825",811,"Mario R.","Capecchi",1937,"0000-00-00","Italy","IT","male",2007,"medicine",3,70
+"826",811,"Mario R.","Capecchi",1937,"0000-00-00","Italy","IT","male",2007,"medicine",3,70
+"827",812,"Sir Martin J.","Evans",1941,"0000-00-00","United Kingdom","GB","male",2007,"medicine",3,66
+"828",813,"Oliver","Smithies",1925,"0000-00-00","United Kingdom","GB","male",2007,"medicine",3,82
+"829",814,"Albert","Fert",1938,"0000-00-00","France","FR","male",2007,"physics",2,69
+"830",814,"Albert","Fert",1938,"0000-00-00","France","FR","male",2007,"physics",2,69
+"831",815,"Peter","Grünberg",1939,"0000-00-00","Czechoslovakia (now Czech Republic)","CZ","male",2007,"physics",2,68
+"832",816,"Gerhard","Ertl",1936,"0000-00-00","Germany","DE","male",2007,"chemistry",1,71
+"833",817,"Doris","Lessing",1919,"2013-11-17","Persia (now Iran)","IR","female",2007,"literature",1,88
+"835",819,"Albert Arnold (Al)","Gore Jr.",1948,"0000-00-00","USA","US","male",2007,"peace",2,59
+"836",820,"Leonid","Hurwicz",1917,"2008-06-24","Russia","RU","male",2007,"economics",3,90
+"837",821,"Eric S.","Maskin",1950,"0000-00-00","USA","US","male",2007,"economics",3,57
+"838",822,"Roger B.","Myerson",1951,"0000-00-00","USA","US","male",2007,"economics",3,56
+"839",823,"Harald","zur Hausen",1936,"0000-00-00","Germany","DE","male",2008,"medicine",2,72
+"840",824,"Françoise","Barré-Sinoussi",1947,"0000-00-00","France","FR","female",2008,"medicine",4,61
+"841",825,"Luc","Montagnier",1932,"0000-00-00","France","FR","male",2008,"medicine",4,76
+"842",826,"Yoichiro","Nambu",1921,"0000-00-00","Japan","JP","male",2008,"physics",2,87
+"843",827,"Makoto","Kobayashi",1944,"0000-00-00","Japan","JP","male",2008,"physics",4,64
+"844",828,"Toshihide","Maskawa",1940,"0000-00-00","Japan","JP","male",2008,"physics",4,68
+"845",828,"Toshihide","Maskawa",1940,"0000-00-00","Japan","JP","male",2008,"physics",4,68
+"846",829,"Osamu","Shimomura",1928,"0000-00-00","Japan","JP","male",2008,"chemistry",3,80
+"847",829,"Osamu","Shimomura",1928,"0000-00-00","Japan","JP","male",2008,"chemistry",3,80
+"848",830,"Martin","Chalfie",1947,"0000-00-00","USA","US","male",2008,"chemistry",3,61
+"849",831,"Roger Y.","Tsien",1952,"0000-00-00","USA","US","male",2008,"chemistry",3,56
+"850",831,"Roger Y.","Tsien",1952,"0000-00-00","USA","US","male",2008,"chemistry",3,56
+"851",832,"Jean-Marie Gustave","Le Clézio",1940,"0000-00-00","France","FR","male",2008,"literature",1,68
+"852",833,"Martti","Ahtisaari",1937,"0000-00-00","Finland (now Russia)","RU","male",2008,"peace",1,71
+"853",834,"Paul","Krugman",1953,"0000-00-00","USA","US","male",2008,"economics",1,55
+"854",835,"Elizabeth H.","Blackburn",1948,"0000-00-00","Australia","AU","female",2009,"medicine",3,61
+"855",836,"Carol W.","Greider",1961,"0000-00-00","USA","US","female",2009,"medicine",3,48
+"856",837,"Jack W.","Szostak",1952,"0000-00-00","United Kingdom","GB","male",2009,"medicine",3,57
+"857",837,"Jack W.","Szostak",1952,"0000-00-00","United Kingdom","GB","male",2009,"medicine",3,57
+"858",837,"Jack W.","Szostak",1952,"0000-00-00","United Kingdom","GB","male",2009,"medicine",3,57
+"859",838,"Charles Kuen","Kao",1933,"0000-00-00","China","CN","male",2009,"physics",2,76
+"860",838,"Charles Kuen","Kao",1933,"0000-00-00","China","CN","male",2009,"physics",2,76
+"861",839,"Willard S.","Boyle",1924,"2011-05-07","Canada","CA","male",2009,"physics",4,85
+"862",840,"George E.","Smith",1930,"0000-00-00","USA","US","male",2009,"physics",4,79
+"864",842,"Thomas A.","Steitz",1940,"0000-00-00","USA","US","male",2009,"chemistry",3,69
+"865",842,"Thomas A.","Steitz",1940,"0000-00-00","USA","US","male",2009,"chemistry",3,69
+"866",843,"Ada E.","Yonath",1939,"0000-00-00","British Mandate of Palestine (now Israel)","IL","female",2009,"chemistry",3,70
+"867",844,"Herta","Müller",1953,"0000-00-00","Romania","RO","female",2009,"literature",1,56
+"868",845,"Barack H.","Obama",1961,"0000-00-00","USA","US","male",2009,"peace",1,48
+"869",846,"Elinor","Ostrom",1933,"2012-06-12","USA","US","female",2009,"economics",2,76
+"870",846,"Elinor","Ostrom",1933,"2012-06-12","USA","US","female",2009,"economics",2,76
+"871",847,"Oliver E.","Williamson",1932,"0000-00-00","USA","US","male",2009,"economics",2,77
+"872",848,"Robert G.","Edwards",1925,"2013-04-10","United Kingdom","GB","male",2010,"medicine",1,85
+"873",849,"Andre","Geim",1958,"0000-00-00","Russia","RU","male",2010,"physics",2,52
+"874",850,"Konstantin","Novoselov",1974,"0000-00-00","Russia","RU","male",2010,"physics",2,36
+"875",851,"Richard F.","Heck",1931,"0000-00-00","USA","US","male",2010,"chemistry",3,79
+"876",852,"Ei-ichi","Negishi",1935,"0000-00-00","China","CN","male",2010,"chemistry",3,75
+"877",853,"Akira","Suzuki",1930,"0000-00-00","Japan","JP","male",2010,"chemistry",3,80
+"878",854,"Mario","Vargas Llosa",1936,"0000-00-00","Peru","PE","male",2010,"literature",1,74
+"879",855,"Liu","Xiaobo",1955,"0000-00-00","China","CN","male",2010,"peace",1,55
+"880",856,"Peter A.","Diamond",1940,"0000-00-00","USA","US","male",2010,"economics",3,70
+"881",857,"Dale T.","Mortensen",1939,"2014-01-09","USA","US","male",2010,"economics",3,71
+"882",857,"Dale T.","Mortensen",1939,"2014-01-09","USA","US","male",2010,"economics",3,71
+"883",858,"Christopher A.","Pissarides",1948,"0000-00-00","Cyprus","CY","male",2010,"economics",3,62
+"890",865,"Brian P.","Schmidt",1967,"0000-00-00","USA","US","male",2011,"physics",4,44
+"891",866,"Adam G.","Riess",1969,"0000-00-00","USA","US","male",2011,"physics",4,42
+"892",866,"Adam G.","Riess",1969,"0000-00-00","USA","US","male",2011,"physics",4,42
+"894",868,"Tomas","Tranströmer",1931,"0000-00-00","Sweden","SE","male",2011,"literature",1,80
+"895",869,"Ellen","Johnson Sirleaf",1938,"0000-00-00","Liberia","LR","female",2011,"peace",3,73
+"897",871,"Tawakkol","Karman",1979,"0000-00-00","Yemen","YE","female",2011,"peace",3,32
+"900",874,"Sir John B.","Gurdon",1933,"0000-00-00","United Kingdom","GB","male",2012,"medicine",2,79
+"901",875,"Shinya","Yamanaka",1962,"0000-00-00","Japan","JP","male",2012,"medicine",2,50
+"902",875,"Shinya","Yamanaka",1962,"0000-00-00","Japan","JP","male",2012,"medicine",2,50
+"905",877,"David J.","Wineland",1944,"0000-00-00","USA","US","male",2012,"physics",2,68
+"906",877,"David J.","Wineland",1944,"0000-00-00","USA","US","male",2012,"physics",2,68
+"907",878,"Robert J.","Lefkowitz",1943,"0000-00-00","USA","US","male",2012,"chemistry",2,69
+"908",878,"Robert J.","Lefkowitz",1943,"0000-00-00","USA","US","male",2012,"chemistry",2,69
+"912",882,"Alvin E.","Roth",1951,"0000-00-00","USA","US","male",2012,"economics",2,61
+"913",882,"Alvin E.","Roth",1951,"0000-00-00","USA","US","male",2012,"economics",2,61
+"914",883,"Lloyd S.","Shapley",1923,"0000-00-00","USA","US","male",2012,"economics",2,89
+"915",884,"James E.","Rothman",1950,"0000-00-00","USA","US","male",2013,"medicine",3,63
+"916",885,"Randy W.","Schekman",1948,"0000-00-00","USA","US","male",2013,"medicine",3,65
+"917",885,"Randy W.","Schekman",1948,"0000-00-00","USA","US","male",2013,"medicine",3,65
+"918",886,"Thomas C.","Südhof",1955,"0000-00-00","Germany","DE","male",2013,"medicine",3,58
+"919",886,"Thomas C.","Südhof",1955,"0000-00-00","Germany","DE","male",2013,"medicine",3,58
+"920",887,"François","Englert",1932,"0000-00-00","Belgium","BE","male",2013,"physics",2,81
+"921",888,"Peter W.","Higgs",1929,"0000-00-00","United Kingdom","GB","male",2013,"physics",2,84
+"922",889,"Martin","Karplus",1930,"0000-00-00","Austria","AT","male",2013,"chemistry",3,83
+"923",889,"Martin","Karplus",1930,"0000-00-00","Austria","AT","male",2013,"chemistry",3,83
+"924",890,"Michael","Levitt",1947,"0000-00-00","South Africa","ZA","male",2013,"chemistry",3,66
+"925",891,"Arieh","Warshel",1940,"0000-00-00","British Mandate of Palestine (now Israel)","IL","male",2013,"chemistry",3,73
+"926",892,"Alice","Munro",1931,"0000-00-00","Canada","CA","female",2013,"literature",1,82
+"928",894,"Eugene F.","Fama",1939,"0000-00-00","USA","US","male",2013,"economics",3,74
+"929",895,"Lars Peter","Hansen",1952,"0000-00-00","USA","US","male",2013,"economics",3,61
+"930",896,"Robert J.","Shiller",1946,"0000-00-00","USA","US","male",2013,"economics",3,67
+"948",912,"Patrick","Modiano",1945,"0000-00-00","France","FR","male",2014,"literature",1,69
+"949",913,"Kailash","Satyarthi",1954,"0000-00-00","India","IN","male",2014,"peace",2,60
+"950",914,"Malala","Yousafzai",1997,"0000-00-00","Pakistan","PK","female",2014,"peace",2,17
+"951",915,"Jean","Tirole",1953,"0000-00-00","France","FR","male",2014,"economics",1,61
