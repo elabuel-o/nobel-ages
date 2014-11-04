@@ -1,9 +1,15 @@
 
-## Creating a kernel density plot
+##----------------------------------------------------------------------------
+## Title: Creating a kernel density plot for ages Nobel laureates
+## Author: Armando Enriquez Z.
+## Date: November 4th, 2014
+## Purpose: Create a kernel density plot (ages by category)
+##----------------------------------------------------------------------------
+
 ## Packages required
 library(ggplot2)
 
-## The plot
+## Creating the plot
 ggplot(nobel, aes(age, fill = category)) + 
         geom_density(alpha = 0.3, size = 0.8) + xlab("Edad") + 
         ylab("Densidad") + 
